@@ -1,6 +1,22 @@
-data/raw/*
-data/processed/*
+# === DATA MENTAH (sensitif / besar) ===
+data/raw/                          # zip export, GPX/FIT, CSV mentah — JANGAN PERNAH publish
+data/processed/*.csv               # CSV penuh berisi nama & deskripsi pribadi
+data/processed/*.parquet
+
+# === WHITELIST: file ringkas & anonim untuk dashboard ===
+!data/processed/dashboard_data.json
+!data/processed/weekly_summary.json
+
+# === SECRETS ===
+.env
+*.token
+credentials.json
+
+# === PYTHON / TOOLING ===
+.venv/
 __pycache__/
 .ipynb_checkpoints/
-.env
-.venv
+.ruff_cache/
+
+# === REPORTS (opsional — kalau ada data sensitif) ===
+# reports/
