@@ -1,11 +1,11 @@
 # === DATA MENTAH (sensitif / besar) ===
-data/raw/                          # zip export, GPX/FIT, CSV mentah — JANGAN PERNAH publish
-data/processed/*.csv               # CSV penuh berisi nama & deskripsi pribadi
+data/raw/                         
+data/processed/*.csv              
 data/processed/*.parquet
 
 # === WHITELIST: file ringkas & anonim untuk dashboard ===
 !data/processed/dashboard_data.json
-!data/processed/weekly_summary.json
+!data/processed/weekly_summary.jsons
 
 # === SECRETS ===
 .env
