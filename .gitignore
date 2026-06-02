@@ -1,6 +1,6 @@
 # === DATA MENTAH (sensitif / besar) ===
 data/raw/
-data/processed/  # kecuali file yang di-whitelist di bawah
+data/processed/ 
 # === WHITELIST: file ringkas & anonim untuk dashboard ===
 !data/processed/dashboard_data.json
 !data/processed/weekly_summary.jsons
