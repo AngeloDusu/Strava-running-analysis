@@ -1,9 +1,10 @@
 # === DATA MENTAH (sensitif / besar) ===
 data/raw/
-data/processed/ 
-# === WHITELIST: file ringkas & anonim untuk dashboard ===
+
+# === PROCESSED: ignore semua isi, whitelist file dashboard ===
+data/processed/*
 !data/processed/dashboard_data.json
-!data/processed/weekly_summary.jsons
+!data/processed/weekly_summary.json
 
 # === SECRETS ===
 .env
@@ -16,5 +17,5 @@ __pycache__/
 .ipynb_checkpoints/
 .ruff_cache/
 
-# === REPORTS (opsional — kalau ada data sensitif) ===
+# === REPORTS (opsional) ===
 # reports/
