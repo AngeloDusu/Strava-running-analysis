@@ -1,0 +1,3132 @@
+{
+  "summary": {
+    "n_runs": 147,
+    "date_range": {
+      "start": "2025-05-27",
+      "end": "2026-06-02"
+    },
+    "acwr": {
+      "current": 0.91,
+      "acute_load_min": 220.5,
+      "chronic_load_min": 242.1
+    },
+    "maf_trend": {
+      "n_runs_total": 89,
+      "n_runs_recent": 36,
+      "slope_overall_per_month": -0.032,
+      "slope_recent_per_month": -0.395,
+      "pace_now": 8.01,
+      "improving_recent": true
+    },
+    "race_5k": {
+      "best_effort_date": "2026-02-17",
+      "best_effort_pace": 4.96,
+      "best_effort_hr": 154.0,
+      "est_5k_time_min": 25.1,
+      "gap_to_target_min": 0.1,
+      "is_reliable": false,
+      "warning": "Best effort recent HR rendah = bukan usaha maksimal. Estimasi tidak reliable. Perlu time-trial!"
+    }
+  },
+  "runs": [
+    {
+      "date": "2025-05-27 17:04:02",
+      "distance_km": 5.0315,
+      "moving_min": 34.81666666666667,
+      "pace_min_per_km": 6.918500069185001,
+      "avg_hr": 172.5,
+      "in_maf_measure": false,
+      "is_aerobic_session": false,
+      "year_month": "2025-05",
+      "week": "2025-05-26/2025-06-01"
+    },
+    {
+      "date": "2025-05-29 16:56:36",
+      "distance_km": 3.1113000000000004,
+      "moving_min": 21.933333333333334,
+      "pace_min_per_km": 7.050197405527355,
+      "avg_hr": 170.5,
+      "in_maf_measure": false,
+      "is_aerobic_session": false,
+      "year_month": "2025-05",
+      "week": "2025-05-26/2025-06-01"
+    },
+    {
+      "date": "2025-06-01 16:40:08",
+      "distance_km": 10.054200000000002,
+      "moving_min": 77.01666666666667,
+      "pace_min_per_km": 7.659313725490196,
+      "avg_hr": 168.6,
+      "in_maf_measure": false,
+      "is_aerobic_session": false,
+      "year_month": "2025-06",
+      "week": "2025-05-26/2025-06-01"
+    },
+    {
+      "date": "2025-06-03 16:58:41",
+      "distance_km": 5.0262,
+      "moving_min": 38.5,
+      "pace_min_per_km": 7.659313725490196,
+      "avg_hr": 165.1,
+      "in_maf_measure": false,
+      "is_aerobic_session": false,
+      "year_month": "2025-06",
+      "week": "2025-06-02/2025-06-08"
+    },
+    {
+      "date": "2025-06-05 17:16:54",
+      "distance_km": 3.2035,
+      "moving_min": 29.35,
+      "pace_min_per_km": 9.16254352208173,
+      "avg_hr": 142.4,
+      "in_maf_measure": false,
+      "is_aerobic_session": true,
+      "year_month": "2025-06",
+      "week": "2025-06-02/2025-06-08"
+    },
+    {
+      "date": "2025-06-12 08:28:44",
+      "distance_km": 5.052899999999999,
+      "moving_min": 46.266666666666666,
+      "pace_min_per_km": 9.157509157509157,
+      "avg_hr": 146.5,
+      "in_maf_measure": false,
+      "is_aerobic_session": true,
+      "year_month": "2025-06",
+      "week": "2025-06-09/2025-06-15"
+    },
+    {
+      "date": "2025-06-14 16:45:52",
+      "distance_km": 5.1961,
+      "moving_min": 47.81666666666667,
+      "pace_min_per_km": 9.203018590097551,
+      "avg_hr": 143.4,
+      "in_maf_measure": false,
+      "is_aerobic_session": true,
+      "year_month": "2025-06",
+      "week": "2025-06-09/2025-06-15"
+    },
+    {
+      "date": "2025-06-15 16:36:23",
+      "distance_km": 11.0824,
+      "moving_min": 86.56666666666666,
+      "pace_min_per_km": 7.810059356451109,
+      "avg_hr": 171.5,
+      "in_maf_measure": false,
+      "is_aerobic_session": false,
+      "year_month": "2025-06",
+      "week": "2025-06-09/2025-06-15"
+    },
+    {
+      "date": "2025-06-17 16:11:39",
+      "distance_km": 5.0508999999999995,
+      "moving_min": 40.0,
+      "pace_min_per_km": 7.917656373713381,
+      "avg_hr": 165.1,
+      "in_maf_measure": false,
+      "is_aerobic_session": false,
+      "year_month": "2025-06",
+      "week": "2025-06-16/2025-06-22"
+    },
+    {
+      "date": "2025-06-19 16:50:49",
+      "distance_km": 2.7296,
+      "moving_min": 15.283333333333333,
+      "pace_min_per_km": 5.598477214197738,
+      "avg_hr": 166.5,
+      "in_maf_measure": false,
+      "is_aerobic_session": false,
+      "year_month": "2025-06",
+      "week": "2025-06-16/2025-06-22"
+    },
+    {
+      "date": "2025-06-22 16:28:15",
+      "distance_km": 12.0754,
+      "moving_min": 92.93333333333334,
+      "pace_min_per_km": 7.694675284702985,
+      "avg_hr": 168.2,
+      "in_maf_measure": false,
+      "is_aerobic_session": false,
+      "year_month": "2025-06",
+      "week": "2025-06-16/2025-06-22"
+    },
+    {
+      "date": "2025-07-01 16:33:30",
+      "distance_km": 2.7278000000000002,
+      "moving_min": 19.9,
+      "pace_min_per_km": 7.293946024799415,
+      "avg_hr": 165.8,
+      "in_maf_measure": false,
+      "is_aerobic_session": false,
+      "year_month": "2025-07",
+      "week": "2025-06-30/2025-07-06"
+    },
+    {
+      "date": "2025-07-03 16:52:48",
+      "distance_km": 1.8967,
+      "moving_min": 10.316666666666666,
+      "pace_min_per_km": 5.439512619669277,
+      "avg_hr": 166.1,
+      "in_maf_measure": false,
+      "is_aerobic_session": false,
+      "year_month": "2025-07",
+      "week": "2025-06-30/2025-07-06"
+    },
+    {
+      "date": "2025-07-05 17:08:19",
+      "distance_km": 3.0801,
+      "moving_min": 20.783333333333335,
+      "pace_min_per_km": 6.747638326585694,
+      "avg_hr": 172.6,
+      "in_maf_measure": false,
+      "is_aerobic_session": false,
+      "year_month": "2025-07",
+      "week": "2025-06-30/2025-07-06"
+    },
+    {
+      "date": "2025-07-06 07:10:19",
+      "distance_km": 9.9991,
+      "moving_min": 74.93333333333334,
+      "pace_min_per_km": 7.49400479616307,
+      "avg_hr": 173.1,
+      "in_maf_measure": false,
+      "is_aerobic_session": false,
+      "year_month": "2025-07",
+      "week": "2025-06-30/2025-07-06"
+    },
+    {
+      "date": "2025-07-08 16:45:35",
+      "distance_km": 5.049600000000001,
+      "moving_min": 43.86666666666667,
+      "pace_min_per_km": 8.68507903421921,
+      "avg_hr": 158.3,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2025-07",
+      "week": "2025-07-07/2025-07-13"
+    },
+    {
+      "date": "2025-07-10 16:41:58",
+      "distance_km": 5.0241999999999996,
+      "moving_min": 35.333333333333336,
+      "pace_min_per_km": 7.032348804500702,
+      "avg_hr": 165.8,
+      "in_maf_measure": false,
+      "is_aerobic_session": false,
+      "year_month": "2025-07",
+      "week": "2025-07-07/2025-07-13"
+    },
+    {
+      "date": "2025-07-12 17:04:14",
+      "distance_km": 4.2902,
+      "moving_min": 36.06666666666667,
+      "pace_min_per_km": 8.404773911581778,
+      "avg_hr": 155.4,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2025-07",
+      "week": "2025-07-07/2025-07-13"
+    },
+    {
+      "date": "2025-07-13 16:16:44",
+      "distance_km": 13.6066,
+      "moving_min": 107.46666666666667,
+      "pace_min_per_km": 7.898894154818326,
+      "avg_hr": 162.4,
+      "in_maf_measure": false,
+      "is_aerobic_session": false,
+      "year_month": "2025-07",
+      "week": "2025-07-07/2025-07-13"
+    },
+    {
+      "date": "2025-07-17 16:01:01",
+      "distance_km": 6.666300000000001,
+      "moving_min": 46.516666666666666,
+      "pace_min_per_km": 6.976419701409238,
+      "avg_hr": 168.6,
+      "in_maf_measure": false,
+      "is_aerobic_session": false,
+      "year_month": "2025-07",
+      "week": "2025-07-14/2025-07-20"
+    },
+    {
+      "date": "2025-07-19 16:45:27",
+      "distance_km": 6.2932,
+      "moving_min": 58.78333333333333,
+      "pace_min_per_km": 9.342301943198803,
+      "avg_hr": 154.9,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2025-07",
+      "week": "2025-07-14/2025-07-20"
+    },
+    {
+      "date": "2025-07-20 16:16:13",
+      "distance_km": 14.0717,
+      "moving_min": 109.73333333333333,
+      "pace_min_per_km": 7.799095304944626,
+      "avg_hr": 161.0,
+      "in_maf_measure": false,
+      "is_aerobic_session": false,
+      "year_month": "2025-07",
+      "week": "2025-07-14/2025-07-20"
+    },
+    {
+      "date": "2025-07-22 17:02:58",
+      "distance_km": 6.7062,
+      "moving_min": 51.8,
+      "pace_min_per_km": 7.723200494284832,
+      "avg_hr": 157.0,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2025-07",
+      "week": "2025-07-21/2025-07-27"
+    },
+    {
+      "date": "2025-07-24 16:50:51",
+      "distance_km": 3.4086,
+      "moving_min": 25.833333333333332,
+      "pace_min_per_km": 7.579202667879339,
+      "avg_hr": 156.9,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2025-07",
+      "week": "2025-07-21/2025-07-27"
+    },
+    {
+      "date": "2025-07-26 16:41:44",
+      "distance_km": 6.2862,
+      "moving_min": 50.9,
+      "pace_min_per_km": 8.09847748623259,
+      "avg_hr": 159.9,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2025-07",
+      "week": "2025-07-21/2025-07-27"
+    },
+    {
+      "date": "2025-07-27 16:12:19",
+      "distance_km": 14.3124,
+      "moving_min": 113.15,
+      "pace_min_per_km": 7.906388361796331,
+      "avg_hr": 162.4,
+      "in_maf_measure": false,
+      "is_aerobic_session": false,
+      "year_month": "2025-07",
+      "week": "2025-07-21/2025-07-27"
+    },
+    {
+      "date": "2025-07-29 16:48:13",
+      "distance_km": 6.378,
+      "moving_min": 51.2,
+      "pace_min_per_km": 8.028259473346179,
+      "avg_hr": 155.7,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2025-07",
+      "week": "2025-07-28/2025-08-03"
+    },
+    {
+      "date": "2025-07-31 17:33:04",
+      "distance_km": 1.8576,
+      "moving_min": 8.833333333333334,
+      "pace_min_per_km": 4.755111745126011,
+      "avg_hr": 161.0,
+      "in_maf_measure": false,
+      "is_aerobic_session": false,
+      "year_month": "2025-07",
+      "week": "2025-07-28/2025-08-03"
+    },
+    {
+      "date": "2025-08-02 16:58:19",
+      "distance_km": 6.328600000000001,
+      "moving_min": 53.88333333333333,
+      "pace_min_per_km": 8.512087163772557,
+      "avg_hr": 149.7,
+      "in_maf_measure": false,
+      "is_aerobic_session": true,
+      "year_month": "2025-08",
+      "week": "2025-07-28/2025-08-03"
+    },
+    {
+      "date": "2025-08-03 16:05:23",
+      "distance_km": 15.030899999999999,
+      "moving_min": 107.2,
+      "pace_min_per_km": 7.13165026387106,
+      "avg_hr": 161.8,
+      "in_maf_measure": false,
+      "is_aerobic_session": false,
+      "year_month": "2025-08",
+      "week": "2025-07-28/2025-08-03"
+    },
+    {
+      "date": "2025-08-07 16:23:19",
+      "distance_km": 2.2265,
+      "moving_min": 12.116666666666667,
+      "pace_min_per_km": 5.441288497116117,
+      "avg_hr": 164.0,
+      "in_maf_measure": false,
+      "is_aerobic_session": false,
+      "year_month": "2025-08",
+      "week": "2025-08-04/2025-08-10"
+    },
+    {
+      "date": "2025-08-09 16:18:39",
+      "distance_km": 6.1568000000000005,
+      "moving_min": 45.416666666666664,
+      "pace_min_per_km": 7.377895824110964,
+      "avg_hr": 166.3,
+      "in_maf_measure": false,
+      "is_aerobic_session": false,
+      "year_month": "2025-08",
+      "week": "2025-08-04/2025-08-10"
+    },
+    {
+      "date": "2025-08-10 16:07:17",
+      "distance_km": 10.2736,
+      "moving_min": 87.3,
+      "pace_min_per_km": 8.499065102838687,
+      "avg_hr": 156.8,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2025-08",
+      "week": "2025-08-04/2025-08-10"
+    },
+    {
+      "date": "2025-08-14 15:46:58",
+      "distance_km": 2.2203000000000004,
+      "moving_min": 11.35,
+      "pace_min_per_km": 5.112474437627812,
+      "avg_hr": 161.8,
+      "in_maf_measure": false,
+      "is_aerobic_session": false,
+      "year_month": "2025-08",
+      "week": "2025-08-11/2025-08-17"
+    },
+    {
+      "date": "2025-08-16 16:26:46",
+      "distance_km": 4.135,
+      "moving_min": 18.2,
+      "pace_min_per_km": 4.4010210368805565,
+      "avg_hr": 164.2,
+      "in_maf_measure": false,
+      "is_aerobic_session": false,
+      "year_month": "2025-08",
+      "week": "2025-08-11/2025-08-17"
+    },
+    {
+      "date": "2025-08-17 16:03:12",
+      "distance_km": 11.191799999999999,
+      "moving_min": 92.13333333333334,
+      "pace_min_per_km": 8.23045267489712,
+      "avg_hr": 161.2,
+      "in_maf_measure": false,
+      "is_aerobic_session": false,
+      "year_month": "2025-08",
+      "week": "2025-08-11/2025-08-17"
+    },
+    {
+      "date": "2025-08-19 16:44:48",
+      "distance_km": 6.3548,
+      "moving_min": 53.7,
+      "pace_min_per_km": 8.451656524678837,
+      "avg_hr": 154.1,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2025-08",
+      "week": "2025-08-18/2025-08-24"
+    },
+    {
+      "date": "2025-08-21 16:42:50",
+      "distance_km": 5.2132,
+      "moving_min": 32.86666666666667,
+      "pace_min_per_km": 6.303580433686333,
+      "avg_hr": 167.9,
+      "in_maf_measure": false,
+      "is_aerobic_session": false,
+      "year_month": "2025-08",
+      "week": "2025-08-18/2025-08-24"
+    },
+    {
+      "date": "2025-08-23 16:09:03",
+      "distance_km": 6.698600000000001,
+      "moving_min": 56.56666666666667,
+      "pace_min_per_km": 8.443093549476528,
+      "avg_hr": 153.9,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2025-08",
+      "week": "2025-08-18/2025-08-24"
+    },
+    {
+      "date": "2025-08-24 16:01:58",
+      "distance_km": 12.2229,
+      "moving_min": 96.61666666666666,
+      "pace_min_per_km": 7.906388361796331,
+      "avg_hr": 159.5,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2025-08",
+      "week": "2025-08-18/2025-08-24"
+    },
+    {
+      "date": "2025-08-30 16:34:26",
+      "distance_km": 4.6646,
+      "moving_min": 35.45,
+      "pace_min_per_km": 7.5999392004863955,
+      "avg_hr": 161.1,
+      "in_maf_measure": false,
+      "is_aerobic_session": false,
+      "year_month": "2025-08",
+      "week": "2025-08-25/2025-08-31"
+    },
+    {
+      "date": "2025-09-02 16:35:47",
+      "distance_km": 6.1686000000000005,
+      "moving_min": 43.61666666666667,
+      "pace_min_per_km": 7.071135624381275,
+      "avg_hr": 167.9,
+      "in_maf_measure": false,
+      "is_aerobic_session": false,
+      "year_month": "2025-09",
+      "week": "2025-09-01/2025-09-07"
+    },
+    {
+      "date": "2025-09-07 16:44:34",
+      "distance_km": 2.058,
+      "moving_min": 16.7,
+      "pace_min_per_km": 8.114248620577735,
+      "avg_hr": 160.5,
+      "in_maf_measure": false,
+      "is_aerobic_session": false,
+      "year_month": "2025-09",
+      "week": "2025-09-01/2025-09-07"
+    },
+    {
+      "date": "2025-10-07 16:17:31",
+      "distance_km": 2.1774,
+      "moving_min": 20.133333333333333,
+      "pace_min_per_km": 9.24898261191269,
+      "avg_hr": 148.7,
+      "in_maf_measure": false,
+      "is_aerobic_session": true,
+      "year_month": "2025-10",
+      "week": "2025-10-06/2025-10-12"
+    },
+    {
+      "date": "2025-10-11 16:50:35",
+      "distance_km": 2.1915,
+      "moving_min": 19.566666666666666,
+      "pace_min_per_km": 8.926977325477594,
+      "avg_hr": 151.3,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2025-10",
+      "week": "2025-10-06/2025-10-12"
+    },
+    {
+      "date": "2025-10-12 16:47:52",
+      "distance_km": 2.0942,
+      "moving_min": 19.833333333333332,
+      "pace_min_per_km": 9.46969696969697,
+      "avg_hr": 149.0,
+      "in_maf_measure": false,
+      "is_aerobic_session": true,
+      "year_month": "2025-10",
+      "week": "2025-10-06/2025-10-12"
+    },
+    {
+      "date": "2025-10-14 17:30:47",
+      "distance_km": 2.2836,
+      "moving_min": 20.5,
+      "pace_min_per_km": 8.975049362771495,
+      "avg_hr": 150.1,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2025-10",
+      "week": "2025-10-13/2025-10-19"
+    },
+    {
+      "date": "2025-10-18 16:40:13",
+      "distance_km": 2.381,
+      "moving_min": 19.466666666666665,
+      "pace_min_per_km": 8.173941474579042,
+      "avg_hr": 154.2,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2025-10",
+      "week": "2025-10-13/2025-10-19"
+    },
+    {
+      "date": "2025-10-19 15:49:44",
+      "distance_km": 2.2428000000000003,
+      "moving_min": 20.433333333333334,
+      "pace_min_per_km": 9.112447603426281,
+      "avg_hr": 151.0,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2025-10",
+      "week": "2025-10-13/2025-10-19"
+    },
+    {
+      "date": "2025-10-25 16:35:23",
+      "distance_km": 2.5736,
+      "moving_min": 22.55,
+      "pace_min_per_km": 8.762705923589206,
+      "avg_hr": 150.3,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2025-10",
+      "week": "2025-10-20/2025-10-26"
+    },
+    {
+      "date": "2025-10-26 16:44:27",
+      "distance_km": 2.2851999999999997,
+      "moving_min": 19.683333333333334,
+      "pace_min_per_km": 8.613264427217915,
+      "avg_hr": 148.8,
+      "in_maf_measure": false,
+      "is_aerobic_session": true,
+      "year_month": "2025-10",
+      "week": "2025-10-20/2025-10-26"
+    },
+    {
+      "date": "2025-10-28 16:53:10",
+      "distance_km": 2.4853,
+      "moving_min": 20.766666666666666,
+      "pace_min_per_km": 8.35421888053467,
+      "avg_hr": 150.9,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2025-10",
+      "week": "2025-10-27/2025-11-02"
+    },
+    {
+      "date": "2025-11-01 16:46:02",
+      "distance_km": 2.2977,
+      "moving_min": 19.283333333333335,
+      "pace_min_per_km": 8.392077878482713,
+      "avg_hr": 151.1,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2025-11",
+      "week": "2025-10-27/2025-11-02"
+    },
+    {
+      "date": "2025-11-02 17:14:27",
+      "distance_km": 2.4831999999999996,
+      "moving_min": 21.983333333333334,
+      "pace_min_per_km": 8.85112409275978,
+      "avg_hr": 149.4,
+      "in_maf_measure": false,
+      "is_aerobic_session": true,
+      "year_month": "2025-11",
+      "week": "2025-10-27/2025-11-02"
+    },
+    {
+      "date": "2025-11-04 16:38:11",
+      "distance_km": 2.5114,
+      "moving_min": 21.3,
+      "pace_min_per_km": 8.481764206955047,
+      "avg_hr": 153.4,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2025-11",
+      "week": "2025-11-03/2025-11-09"
+    },
+    {
+      "date": "2025-11-08 17:15:46",
+      "distance_km": 2.4124,
+      "moving_min": 20.466666666666665,
+      "pace_min_per_km": 8.486082824168363,
+      "avg_hr": 152.8,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2025-11",
+      "week": "2025-11-03/2025-11-09"
+    },
+    {
+      "date": "2025-11-09 17:00:47",
+      "distance_km": 3.3735,
+      "moving_min": 28.783333333333335,
+      "pace_min_per_km": 8.533879501621437,
+      "avg_hr": 153.8,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2025-11",
+      "week": "2025-11-03/2025-11-09"
+    },
+    {
+      "date": "2025-11-15 16:40:45",
+      "distance_km": 3.637,
+      "moving_min": 29.083333333333332,
+      "pace_min_per_km": 7.99744081893794,
+      "avg_hr": 161.8,
+      "in_maf_measure": false,
+      "is_aerobic_session": false,
+      "year_month": "2025-11",
+      "week": "2025-11-10/2025-11-16"
+    },
+    {
+      "date": "2025-11-16 17:26:28",
+      "distance_km": 3.7081,
+      "moving_min": 31.75,
+      "pace_min_per_km": 8.560178051703474,
+      "avg_hr": 156.5,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2025-11",
+      "week": "2025-11-10/2025-11-16"
+    },
+    {
+      "date": "2025-11-23 16:24:50",
+      "distance_km": 5.6353,
+      "moving_min": 45.85,
+      "pace_min_per_km": 8.138020833333334,
+      "avg_hr": 156.8,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2025-11",
+      "week": "2025-11-17/2025-11-23"
+    },
+    {
+      "date": "2025-11-25 17:29:04",
+      "distance_km": 3.4314,
+      "moving_min": 29.866666666666667,
+      "pace_min_per_km": 8.703220191470844,
+      "avg_hr": 155.5,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2025-11",
+      "week": "2025-11-24/2025-11-30"
+    },
+    {
+      "date": "2025-11-29 17:09:56",
+      "distance_km": 5.4046,
+      "moving_min": 43.21666666666667,
+      "pace_min_per_km": 7.99744081893794,
+      "avg_hr": 158.5,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2025-11",
+      "week": "2025-11-24/2025-11-30"
+    },
+    {
+      "date": "2025-11-30 16:44:17",
+      "distance_km": 5.1298,
+      "moving_min": 38.333333333333336,
+      "pace_min_per_km": 7.473841554559042,
+      "avg_hr": 159.9,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2025-11",
+      "week": "2025-11-24/2025-11-30"
+    },
+    {
+      "date": "2025-12-07 07:26:37",
+      "distance_km": 5.160399999999999,
+      "moving_min": 43.86666666666667,
+      "pace_min_per_km": 8.499065102838687,
+      "avg_hr": 160.8,
+      "in_maf_measure": false,
+      "is_aerobic_session": false,
+      "year_month": "2025-12",
+      "week": "2025-12-01/2025-12-07"
+    },
+    {
+      "date": "2025-12-10 16:58:45",
+      "distance_km": 6.1063,
+      "moving_min": 51.56666666666667,
+      "pace_min_per_km": 8.443093549476528,
+      "avg_hr": 155.4,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2025-12",
+      "week": "2025-12-08/2025-12-14"
+    },
+    {
+      "date": "2025-12-13 16:11:50",
+      "distance_km": 5.3498,
+      "moving_min": 43.25,
+      "pace_min_per_km": 8.082767539605562,
+      "avg_hr": 157.6,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2025-12",
+      "week": "2025-12-08/2025-12-14"
+    },
+    {
+      "date": "2025-12-14 16:05:46",
+      "distance_km": 4.2628,
+      "moving_min": 38.65,
+      "pace_min_per_km": 9.067827348567283,
+      "avg_hr": 148.2,
+      "in_maf_measure": false,
+      "is_aerobic_session": true,
+      "year_month": "2025-12",
+      "week": "2025-12-08/2025-12-14"
+    },
+    {
+      "date": "2025-12-20 16:10:33",
+      "distance_km": 6.8971,
+      "moving_min": 53.333333333333336,
+      "pace_min_per_km": 7.733952049497294,
+      "avg_hr": 159.0,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2025-12",
+      "week": "2025-12-15/2025-12-21"
+    },
+    {
+      "date": "2025-12-21 16:39:00",
+      "distance_km": 4.1387,
+      "moving_min": 35.516666666666666,
+      "pace_min_per_km": 8.582217645039478,
+      "avg_hr": 147.9,
+      "in_maf_measure": false,
+      "is_aerobic_session": true,
+      "year_month": "2025-12",
+      "week": "2025-12-15/2025-12-21"
+    },
+    {
+      "date": "2025-12-23 16:54:01",
+      "distance_km": 5.1244,
+      "moving_min": 44.71666666666667,
+      "pace_min_per_km": 8.726003490401396,
+      "avg_hr": 156.9,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2025-12",
+      "week": "2025-12-22/2025-12-28"
+    },
+    {
+      "date": "2025-12-27 16:34:29",
+      "distance_km": 5.2696000000000005,
+      "moving_min": 42.88333333333333,
+      "pace_min_per_km": 8.138020833333334,
+      "avg_hr": 149.1,
+      "in_maf_measure": false,
+      "is_aerobic_session": true,
+      "year_month": "2025-12",
+      "week": "2025-12-22/2025-12-28"
+    },
+    {
+      "date": "2025-12-28 07:19:04",
+      "distance_km": 5.1636999999999995,
+      "moving_min": 46.13333333333333,
+      "pace_min_per_km": 8.936550491510276,
+      "avg_hr": 156.0,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2025-12",
+      "week": "2025-12-22/2025-12-28"
+    },
+    {
+      "date": "2025-12-30 16:01:09",
+      "distance_km": 3.0616,
+      "moving_min": 26.233333333333334,
+      "pace_min_per_km": 8.56898029134533,
+      "avg_hr": 146.8,
+      "in_maf_measure": false,
+      "is_aerobic_session": true,
+      "year_month": "2025-12",
+      "week": "2025-12-29/2026-01-04"
+    },
+    {
+      "date": "2026-01-04 16:32:26",
+      "distance_km": 3.2339,
+      "moving_min": 27.366666666666667,
+      "pace_min_per_km": 8.464533604198408,
+      "avg_hr": 147.2,
+      "in_maf_measure": false,
+      "is_aerobic_session": true,
+      "year_month": "2026-01",
+      "week": "2025-12-29/2026-01-04"
+    },
+    {
+      "date": "2026-01-06 16:53:18",
+      "distance_km": 5.1066,
+      "moving_min": 46.3,
+      "pace_min_per_km": 9.067827348567283,
+      "avg_hr": 152.0,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-01",
+      "week": "2026-01-05/2026-01-11"
+    },
+    {
+      "date": "2026-01-07 16:18:31",
+      "distance_km": 3.1161999999999996,
+      "moving_min": 26.983333333333334,
+      "pace_min_per_km": 8.658008658008658,
+      "avg_hr": 150.2,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-01",
+      "week": "2026-01-05/2026-01-11"
+    },
+    {
+      "date": "2026-01-10 15:38:41",
+      "distance_km": 5.4007,
+      "moving_min": 44.983333333333334,
+      "pace_min_per_km": 8.329168748958855,
+      "avg_hr": 151.8,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-01",
+      "week": "2026-01-05/2026-01-11"
+    },
+    {
+      "date": "2026-01-11 16:30:51",
+      "distance_km": 5.8837,
+      "moving_min": 48.083333333333336,
+      "pace_min_per_km": 8.173941474579042,
+      "avg_hr": 152.9,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-01",
+      "week": "2026-01-05/2026-01-11"
+    },
+    {
+      "date": "2026-01-13 17:07:25",
+      "distance_km": 6.4189,
+      "moving_min": 56.05,
+      "pace_min_per_km": 8.730574471800244,
+      "avg_hr": 157.5,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-01",
+      "week": "2026-01-12/2026-01-18"
+    },
+    {
+      "date": "2026-01-14 16:56:29",
+      "distance_km": 3.3679,
+      "moving_min": 27.55,
+      "pace_min_per_km": 8.181966944853542,
+      "avg_hr": 151.9,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-01",
+      "week": "2026-01-12/2026-01-18"
+    },
+    {
+      "date": "2026-01-17 15:39:21",
+      "distance_km": 6.8128,
+      "moving_min": 58.1,
+      "pace_min_per_km": 8.529512111907199,
+      "avg_hr": 158.0,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-01",
+      "week": "2026-01-12/2026-01-18"
+    },
+    {
+      "date": "2026-01-18 16:41:28",
+      "distance_km": 5.3948,
+      "moving_min": 45.083333333333336,
+      "pace_min_per_km": 8.358408559010364,
+      "avg_hr": 152.9,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-01",
+      "week": "2026-01-12/2026-01-18"
+    },
+    {
+      "date": "2026-01-20 17:43:43",
+      "distance_km": 6.771199999999999,
+      "moving_min": 55.86666666666667,
+      "pace_min_per_km": 8.25082508250825,
+      "avg_hr": 153.7,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-01",
+      "week": "2026-01-19/2026-01-25"
+    },
+    {
+      "date": "2026-01-24 17:06:30",
+      "distance_km": 6.8563,
+      "moving_min": 59.21666666666667,
+      "pace_min_per_km": 8.635578583765113,
+      "avg_hr": 159.3,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-01",
+      "week": "2026-01-19/2026-01-25"
+    },
+    {
+      "date": "2026-01-25 17:07:45",
+      "distance_km": 6.1573,
+      "moving_min": 53.65,
+      "pace_min_per_km": 8.712319219376198,
+      "avg_hr": 155.6,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-01",
+      "week": "2026-01-19/2026-01-25"
+    },
+    {
+      "date": "2026-01-27 17:23:02",
+      "distance_km": 6.4625,
+      "moving_min": 57.266666666666666,
+      "pace_min_per_km": 8.86053517632465,
+      "avg_hr": 153.6,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-01",
+      "week": "2026-01-26/2026-02-01"
+    },
+    {
+      "date": "2026-01-28 16:54:07",
+      "distance_km": 2.9199,
+      "moving_min": 26.316666666666666,
+      "pace_min_per_km": 9.013881377321075,
+      "avg_hr": 141.9,
+      "in_maf_measure": false,
+      "is_aerobic_session": true,
+      "year_month": "2026-01",
+      "week": "2026-01-26/2026-02-01"
+    },
+    {
+      "date": "2026-01-31 17:07:00",
+      "distance_km": 3.1235,
+      "moving_min": 26.4,
+      "pace_min_per_km": 8.451656524678837,
+      "avg_hr": 145.6,
+      "in_maf_measure": false,
+      "is_aerobic_session": true,
+      "year_month": "2026-01",
+      "week": "2026-01-26/2026-02-01"
+    },
+    {
+      "date": "2026-02-01 16:50:24",
+      "distance_km": 4.3049,
+      "moving_min": 37.88333333333333,
+      "pace_min_per_km": 8.79971840901091,
+      "avg_hr": 150.0,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-02",
+      "week": "2026-01-26/2026-02-01"
+    },
+    {
+      "date": "2026-02-03 17:23:00",
+      "distance_km": 6.2187,
+      "moving_min": 54.21666666666667,
+      "pace_min_per_km": 8.716875871687588,
+      "avg_hr": 154.0,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-02",
+      "week": "2026-02-02/2026-02-08"
+    },
+    {
+      "date": "2026-02-04 17:24:31",
+      "distance_km": 0.701,
+      "moving_min": 5.116666666666666,
+      "pace_min_per_km": 7.300335815447511,
+      "avg_hr": 139.9,
+      "in_maf_measure": false,
+      "is_aerobic_session": false,
+      "year_month": "2026-02",
+      "week": "2026-02-02/2026-02-08"
+    },
+    {
+      "date": "2026-02-07 17:09:30",
+      "distance_km": 7.2717,
+      "moving_min": 63.18333333333333,
+      "pace_min_per_km": 8.689607229753216,
+      "avg_hr": 150.1,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-02",
+      "week": "2026-02-02/2026-02-08"
+    },
+    {
+      "date": "2026-02-08 17:24:40",
+      "distance_km": 6.1871,
+      "moving_min": 55.46666666666667,
+      "pace_min_per_km": 8.965393580778196,
+      "avg_hr": 150.7,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-02",
+      "week": "2026-02-02/2026-02-08"
+    },
+    {
+      "date": "2026-02-10 17:54:05",
+      "distance_km": 6.3969,
+      "moving_min": 55.53333333333333,
+      "pace_min_per_km": 8.680555555555557,
+      "avg_hr": 153.9,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-02",
+      "week": "2026-02-09/2026-02-15"
+    },
+    {
+      "date": "2026-02-11 16:27:32",
+      "distance_km": 3.2035,
+      "moving_min": 26.583333333333332,
+      "pace_min_per_km": 8.300132802124834,
+      "avg_hr": 147.4,
+      "in_maf_measure": false,
+      "is_aerobic_session": true,
+      "year_month": "2026-02",
+      "week": "2026-02-09/2026-02-15"
+    },
+    {
+      "date": "2026-02-14 06:41:26",
+      "distance_km": 7.3125,
+      "moving_min": 63.85,
+      "pace_min_per_km": 8.730574471800244,
+      "avg_hr": 153.5,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-02",
+      "week": "2026-02-09/2026-02-15"
+    },
+    {
+      "date": "2026-02-15 17:16:12",
+      "distance_km": 7.4429,
+      "moving_min": 65.03333333333333,
+      "pace_min_per_km": 8.739730816290859,
+      "avg_hr": 156.6,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-02",
+      "week": "2026-02-09/2026-02-15"
+    },
+    {
+      "date": "2026-02-17 17:21:56",
+      "distance_km": 4.271199999999999,
+      "moving_min": 21.2,
+      "pace_min_per_km": 4.963271788763152,
+      "avg_hr": 154.3,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-02",
+      "week": "2026-02-16/2026-02-22"
+    },
+    {
+      "date": "2026-02-19 17:05:38",
+      "distance_km": 3.0225,
+      "moving_min": 26.5,
+      "pace_min_per_km": 8.76731544800982,
+      "avg_hr": 143.1,
+      "in_maf_measure": false,
+      "is_aerobic_session": true,
+      "year_month": "2026-02",
+      "week": "2026-02-16/2026-02-22"
+    },
+    {
+      "date": "2026-02-21 16:39:58",
+      "distance_km": 7.857,
+      "moving_min": 69.55,
+      "pace_min_per_km": 8.85112409275978,
+      "avg_hr": 161.7,
+      "in_maf_measure": false,
+      "is_aerobic_session": false,
+      "year_month": "2026-02",
+      "week": "2026-02-16/2026-02-22"
+    },
+    {
+      "date": "2026-02-25 17:31:24",
+      "distance_km": 2.6016999999999997,
+      "moving_min": 23.616666666666667,
+      "pace_min_per_km": 9.077705156136528,
+      "avg_hr": 149.5,
+      "in_maf_measure": false,
+      "is_aerobic_session": true,
+      "year_month": "2026-02",
+      "week": "2026-02-23/2026-03-01"
+    },
+    {
+      "date": "2026-02-26 17:34:51",
+      "distance_km": 3.0206999999999997,
+      "moving_min": 26.8,
+      "pace_min_per_km": 8.869966294128083,
+      "avg_hr": 151.4,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-02",
+      "week": "2026-02-23/2026-03-01"
+    },
+    {
+      "date": "2026-02-28 17:15:06",
+      "distance_km": 5.018,
+      "moving_min": 44.85,
+      "pace_min_per_km": 8.936550491510276,
+      "avg_hr": 153.8,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-02",
+      "week": "2026-02-23/2026-03-01"
+    },
+    {
+      "date": "2026-03-03 16:59:39",
+      "distance_km": 6.5695,
+      "moving_min": 56.8,
+      "pace_min_per_km": 8.64453665283541,
+      "avg_hr": 149.8,
+      "in_maf_measure": false,
+      "is_aerobic_session": true,
+      "year_month": "2026-03",
+      "week": "2026-03-02/2026-03-08"
+    },
+    {
+      "date": "2026-03-05 17:31:13",
+      "distance_km": 3.087,
+      "moving_min": 26.583333333333332,
+      "pace_min_per_km": 8.613264427217915,
+      "avg_hr": 152.0,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-03",
+      "week": "2026-03-02/2026-03-08"
+    },
+    {
+      "date": "2026-03-07 16:43:55",
+      "distance_km": 8.9617,
+      "moving_min": 72.36666666666666,
+      "pace_min_per_km": 8.074935400516795,
+      "avg_hr": 160.5,
+      "in_maf_measure": false,
+      "is_aerobic_session": false,
+      "year_month": "2026-03",
+      "week": "2026-03-02/2026-03-08"
+    },
+    {
+      "date": "2026-03-08 16:40:04",
+      "distance_km": 8.151399999999999,
+      "moving_min": 72.5,
+      "pace_min_per_km": 8.893632159373887,
+      "avg_hr": 154.2,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-03",
+      "week": "2026-03-02/2026-03-08"
+    },
+    {
+      "date": "2026-03-10 16:52:43",
+      "distance_km": 6.3736999999999995,
+      "moving_min": 57.1,
+      "pace_min_per_km": 8.960573476702509,
+      "avg_hr": 152.0,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-03",
+      "week": "2026-03-09/2026-03-15"
+    },
+    {
+      "date": "2026-03-12 17:30:36",
+      "distance_km": 3.0905,
+      "moving_min": 26.8,
+      "pace_min_per_km": 8.671522719389525,
+      "avg_hr": 151.1,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-03",
+      "week": "2026-03-09/2026-03-15"
+    },
+    {
+      "date": "2026-03-14 16:37:36",
+      "distance_km": 9.0487,
+      "moving_min": 75.68333333333334,
+      "pace_min_per_km": 8.362602441879913,
+      "avg_hr": 159.3,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-03",
+      "week": "2026-03-09/2026-03-15"
+    },
+    {
+      "date": "2026-03-17 17:16:14",
+      "distance_km": 5.2349,
+      "moving_min": 45.266666666666666,
+      "pace_min_per_km": 8.64902266043937,
+      "avg_hr": 154.9,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-03",
+      "week": "2026-03-16/2026-03-22"
+    },
+    {
+      "date": "2026-03-24 17:16:20",
+      "distance_km": 6.4132,
+      "moving_min": 58.733333333333334,
+      "pace_min_per_km": 9.157509157509157,
+      "avg_hr": 154.0,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-03",
+      "week": "2026-03-23/2026-03-29"
+    },
+    {
+      "date": "2026-03-25 17:44:03",
+      "distance_km": 2.9002,
+      "moving_min": 23.95,
+      "pace_min_per_km": 8.259002312520648,
+      "avg_hr": 150.1,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-03",
+      "week": "2026-03-23/2026-03-29"
+    },
+    {
+      "date": "2026-03-28 17:43:00",
+      "distance_km": 2.9511,
+      "moving_min": 26.0,
+      "pace_min_per_km": 8.809020436927414,
+      "avg_hr": 151.3,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-03",
+      "week": "2026-03-23/2026-03-29"
+    },
+    {
+      "date": "2026-03-31 17:21:22",
+      "distance_km": 6.3827,
+      "moving_min": 54.36666666666667,
+      "pace_min_per_km": 8.516436722875149,
+      "avg_hr": 159.0,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-03",
+      "week": "2026-03-30/2026-04-05"
+    },
+    {
+      "date": "2026-04-01 17:40:33",
+      "distance_km": 3.1077,
+      "moving_min": 26.55,
+      "pace_min_per_km": 8.542627712284299,
+      "avg_hr": 153.2,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-04",
+      "week": "2026-03-30/2026-04-05"
+    },
+    {
+      "date": "2026-04-04 16:43:23",
+      "distance_km": 9.392,
+      "moving_min": 78.63333333333334,
+      "pace_min_per_km": 8.371002846140968,
+      "avg_hr": 160.7,
+      "in_maf_measure": false,
+      "is_aerobic_session": false,
+      "year_month": "2026-04",
+      "week": "2026-03-30/2026-04-05"
+    },
+    {
+      "date": "2026-04-05 16:36:48",
+      "distance_km": 9.9818,
+      "moving_min": 87.25,
+      "pace_min_per_km": 8.739730816290859,
+      "avg_hr": 158.2,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-04",
+      "week": "2026-03-30/2026-04-05"
+    },
+    {
+      "date": "2026-04-07 17:06:27",
+      "distance_km": 6.3791,
+      "moving_min": 57.05,
+      "pace_min_per_km": 8.94134477825465,
+      "avg_hr": 153.6,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-04",
+      "week": "2026-04-06/2026-04-12"
+    },
+    {
+      "date": "2026-04-08 17:43:14",
+      "distance_km": 3.5606,
+      "moving_min": 26.866666666666667,
+      "pace_min_per_km": 7.5448921080428555,
+      "avg_hr": 155.4,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-04",
+      "week": "2026-04-06/2026-04-12"
+    },
+    {
+      "date": "2026-04-12 17:17:29",
+      "distance_km": 6.0495,
+      "moving_min": 51.13333333333333,
+      "pace_min_per_km": 8.451656524678837,
+      "avg_hr": 155.0,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-04",
+      "week": "2026-04-06/2026-04-12"
+    },
+    {
+      "date": "2026-04-15 16:02:09",
+      "distance_km": 7.894699999999999,
+      "moving_min": 61.93333333333333,
+      "pace_min_per_km": 7.8431372549019605,
+      "avg_hr": 156.2,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-04",
+      "week": "2026-04-13/2026-04-19"
+    },
+    {
+      "date": "2026-04-16 16:20:19",
+      "distance_km": 3.1583,
+      "moving_min": 27.666666666666668,
+      "pace_min_per_km": 8.758101243650376,
+      "avg_hr": 151.3,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-04",
+      "week": "2026-04-13/2026-04-19"
+    },
+    {
+      "date": "2026-04-18 06:16:23",
+      "distance_km": 9.8277,
+      "moving_min": 82.45,
+      "pace_min_per_km": 8.387854386847845,
+      "avg_hr": 153.6,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-04",
+      "week": "2026-04-13/2026-04-19"
+    },
+    {
+      "date": "2026-04-19 06:08:17",
+      "distance_km": 12.204799999999999,
+      "moving_min": 99.41666666666667,
+      "pace_min_per_km": 8.145975887911373,
+      "avg_hr": 148.5,
+      "in_maf_measure": false,
+      "is_aerobic_session": true,
+      "year_month": "2026-04",
+      "week": "2026-04-13/2026-04-19"
+    },
+    {
+      "date": "2026-04-21 16:57:51",
+      "distance_km": 6.8596,
+      "moving_min": 57.666666666666664,
+      "pace_min_per_km": 8.404773911581778,
+      "avg_hr": 153.6,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-04",
+      "week": "2026-04-20/2026-04-26"
+    },
+    {
+      "date": "2026-04-22 17:34:39",
+      "distance_km": 3.2100999999999997,
+      "moving_min": 26.666666666666668,
+      "pace_min_per_km": 8.308408109006315,
+      "avg_hr": 148.9,
+      "in_maf_measure": false,
+      "is_aerobic_session": true,
+      "year_month": "2026-04",
+      "week": "2026-04-20/2026-04-26"
+    },
+    {
+      "date": "2026-04-26 17:29:05",
+      "distance_km": 6.6267,
+      "moving_min": 54.35,
+      "pace_min_per_km": 8.202099737532809,
+      "avg_hr": 155.2,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-04",
+      "week": "2026-04-20/2026-04-26"
+    },
+    {
+      "date": "2026-04-28 16:57:17",
+      "distance_km": 6.58,
+      "moving_min": 56.78333333333333,
+      "pace_min_per_km": 8.631106507854307,
+      "avg_hr": 157.5,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-04",
+      "week": "2026-04-27/2026-05-03"
+    },
+    {
+      "date": "2026-05-02 06:08:09",
+      "distance_km": 10.494,
+      "moving_min": 80.81666666666666,
+      "pace_min_per_km": 7.701786814540974,
+      "avg_hr": 152.9,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-05",
+      "week": "2026-04-27/2026-05-03"
+    },
+    {
+      "date": "2026-05-03 06:04:41",
+      "distance_km": 13.386299999999999,
+      "moving_min": 107.36666666666666,
+      "pace_min_per_km": 8.020532563362208,
+      "avg_hr": 152.4,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-05",
+      "week": "2026-04-27/2026-05-03"
+    },
+    {
+      "date": "2026-05-05 17:27:59",
+      "distance_km": 6.55,
+      "moving_min": 57.31666666666667,
+      "pace_min_per_km": 8.748906386701663,
+      "avg_hr": 154.2,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-05",
+      "week": "2026-05-04/2026-05-10"
+    },
+    {
+      "date": "2026-05-06 17:18:22",
+      "distance_km": 3.8373000000000004,
+      "moving_min": 27.65,
+      "pace_min_per_km": 7.205649228995532,
+      "avg_hr": 154.8,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-05",
+      "week": "2026-05-04/2026-05-10"
+    },
+    {
+      "date": "2026-05-09 16:16:41",
+      "distance_km": 10.3494,
+      "moving_min": 83.96666666666667,
+      "pace_min_per_km": 8.114248620577735,
+      "avg_hr": 156.7,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-05",
+      "week": "2026-05-04/2026-05-10"
+    },
+    {
+      "date": "2026-05-10 06:03:34",
+      "distance_km": 13.759,
+      "moving_min": 110.78333333333333,
+      "pace_min_per_km": 8.051529790660226,
+      "avg_hr": 149.1,
+      "in_maf_measure": false,
+      "is_aerobic_session": true,
+      "year_month": "2026-05",
+      "week": "2026-05-04/2026-05-10"
+    },
+    {
+      "date": "2026-05-12 17:18:43",
+      "distance_km": 6.661,
+      "moving_min": 53.9,
+      "pace_min_per_km": 8.090614886731391,
+      "avg_hr": 155.4,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-05",
+      "week": "2026-05-11/2026-05-17"
+    },
+    {
+      "date": "2026-05-13 17:27:24",
+      "distance_km": 3.8985,
+      "moving_min": 27.316666666666666,
+      "pace_min_per_km": 7.005744710662743,
+      "avg_hr": 155.7,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-05",
+      "week": "2026-05-11/2026-05-17"
+    },
+    {
+      "date": "2026-05-16 06:10:06",
+      "distance_km": 10.9274,
+      "moving_min": 84.45,
+      "pace_min_per_km": 7.726781023025807,
+      "avg_hr": 151.6,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-05",
+      "week": "2026-05-11/2026-05-17"
+    },
+    {
+      "date": "2026-05-17 06:10:48",
+      "distance_km": 14.0308,
+      "moving_min": 111.38333333333334,
+      "pace_min_per_km": 7.940289026520564,
+      "avg_hr": 149.3,
+      "in_maf_measure": false,
+      "is_aerobic_session": true,
+      "year_month": "2026-05",
+      "week": "2026-05-11/2026-05-17"
+    },
+    {
+      "date": "2026-05-19 16:59:01",
+      "distance_km": 7.5228,
+      "moving_min": 58.75,
+      "pace_min_per_km": 7.810059356451109,
+      "avg_hr": 157.4,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-05",
+      "week": "2026-05-18/2026-05-24"
+    },
+    {
+      "date": "2026-05-20 17:42:47",
+      "distance_km": 3.8792,
+      "moving_min": 25.966666666666665,
+      "pace_min_per_km": 6.693440428380187,
+      "avg_hr": 158.4,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-05",
+      "week": "2026-05-18/2026-05-24"
+    },
+    {
+      "date": "2026-05-23 16:36:31",
+      "distance_km": 6.8637,
+      "moving_min": 52.983333333333334,
+      "pace_min_per_km": 7.71962328238382,
+      "avg_hr": 154.0,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-05",
+      "week": "2026-05-18/2026-05-24"
+    },
+    {
+      "date": "2026-05-24 06:09:10",
+      "distance_km": 14.115200000000002,
+      "moving_min": 110.85,
+      "pace_min_per_km": 7.854225573358467,
+      "avg_hr": 148.7,
+      "in_maf_measure": false,
+      "is_aerobic_session": true,
+      "year_month": "2026-05",
+      "week": "2026-05-18/2026-05-24"
+    },
+    {
+      "date": "2026-05-28 17:21:04",
+      "distance_km": 6.785,
+      "moving_min": 54.083333333333336,
+      "pace_min_per_km": 7.970667941973537,
+      "avg_hr": 151.5,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-05",
+      "week": "2026-05-25/2026-05-31"
+    },
+    {
+      "date": "2026-05-30 16:54:28",
+      "distance_km": 6.6011999999999995,
+      "moving_min": 53.7,
+      "pace_min_per_km": 8.134049129656743,
+      "avg_hr": 156.2,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-05",
+      "week": "2026-05-25/2026-05-31"
+    },
+    {
+      "date": "2026-05-31 06:27:32",
+      "distance_km": 7.0978,
+      "moving_min": 55.45,
+      "pace_min_per_km": 7.81372089388967,
+      "avg_hr": 152.0,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-05",
+      "week": "2026-05-25/2026-05-31"
+    },
+    {
+      "date": "2026-06-02 17:07:25",
+      "distance_km": 6.8237,
+      "moving_min": 57.28333333333333,
+      "pace_min_per_km": 8.396305625524768,
+      "avg_hr": 155.0,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-06",
+      "week": "2026-06-01/2026-06-07"
+    }
+  ],
+  "acwr_timeline": [
+    {
+      "date": "2025-05-27",
+      "acwr": 4.0
+    },
+    {
+      "date": "2025-05-28",
+      "acwr": 4.0
+    },
+    {
+      "date": "2025-05-29",
+      "acwr": 4.0
+    },
+    {
+      "date": "2025-05-30",
+      "acwr": 4.0
+    },
+    {
+      "date": "2025-05-31",
+      "acwr": 4.0
+    },
+    {
+      "date": "2025-06-01",
+      "acwr": 4.0
+    },
+    {
+      "date": "2025-06-02",
+      "acwr": 4.0
+    },
+    {
+      "date": "2025-06-03",
+      "acwr": 3.19
+    },
+    {
+      "date": "2025-06-04",
+      "acwr": 3.19
+    },
+    {
+      "date": "2025-06-05",
+      "acwr": 2.87
+    },
+    {
+      "date": "2025-06-06",
+      "acwr": 2.87
+    },
+    {
+      "date": "2025-06-07",
+      "acwr": 2.87
+    },
+    {
+      "date": "2025-06-08",
+      "acwr": 1.35
+    },
+    {
+      "date": "2025-06-09",
+      "acwr": 1.35
+    },
+    {
+      "date": "2025-06-10",
+      "acwr": 0.58
+    },
+    {
+      "date": "2025-06-11",
+      "acwr": 0.58
+    },
+    {
+      "date": "2025-06-12",
+      "acwr": 0.75
+    },
+    {
+      "date": "2025-06-13",
+      "acwr": 0.75
+    },
+    {
+      "date": "2025-06-14",
+      "acwr": 1.27
+    },
+    {
+      "date": "2025-06-15",
+      "acwr": 1.89
+    },
+    {
+      "date": "2025-06-16",
+      "acwr": 1.89
+    },
+    {
+      "date": "2025-06-17",
+      "acwr": 2.09
+    },
+    {
+      "date": "2025-06-18",
+      "acwr": 2.09
+    },
+    {
+      "date": "2025-06-19",
+      "acwr": 1.73
+    },
+    {
+      "date": "2025-06-20",
+      "acwr": 1.73
+    },
+    {
+      "date": "2025-06-21",
+      "acwr": 1.3
+    },
+    {
+      "date": "2025-06-22",
+      "acwr": 1.12
+    },
+    {
+      "date": "2025-06-23",
+      "acwr": 1.12
+    },
+    {
+      "date": "2025-06-24",
+      "acwr": 0.87
+    },
+    {
+      "date": "2025-06-25",
+      "acwr": 0.87
+    },
+    {
+      "date": "2025-06-26",
+      "acwr": 0.78
+    },
+    {
+      "date": "2025-06-27",
+      "acwr": 0.78
+    },
+    {
+      "date": "2025-06-28",
+      "acwr": 0.78
+    },
+    {
+      "date": "2025-06-29",
+      "acwr": 0.0
+    },
+    {
+      "date": "2025-06-30",
+      "acwr": 0.0
+    },
+    {
+      "date": "2025-07-01",
+      "acwr": 0.21
+    },
+    {
+      "date": "2025-07-02",
+      "acwr": 0.21
+    },
+    {
+      "date": "2025-07-03",
+      "acwr": 0.34
+    },
+    {
+      "date": "2025-07-04",
+      "acwr": 0.34
+    },
+    {
+      "date": "2025-07-05",
+      "acwr": 0.54
+    },
+    {
+      "date": "2025-07-06",
+      "acwr": 1.11
+    },
+    {
+      "date": "2025-07-07",
+      "acwr": 1.11
+    },
+    {
+      "date": "2025-07-08",
+      "acwr": 1.2
+    },
+    {
+      "date": "2025-07-09",
+      "acwr": 1.2
+    },
+    {
+      "date": "2025-07-10",
+      "acwr": 1.43
+    },
+    {
+      "date": "2025-07-11",
+      "acwr": 1.43
+    },
+    {
+      "date": "2025-07-12",
+      "acwr": 1.6
+    },
+    {
+      "date": "2025-07-13",
+      "acwr": 1.79
+    },
+    {
+      "date": "2025-07-14",
+      "acwr": 1.79
+    },
+    {
+      "date": "2025-07-15",
+      "acwr": 1.57
+    },
+    {
+      "date": "2025-07-16",
+      "acwr": 1.57
+    },
+    {
+      "date": "2025-07-17",
+      "acwr": 1.56
+    },
+    {
+      "date": "2025-07-18",
+      "acwr": 1.56
+    },
+    {
+      "date": "2025-07-19",
+      "acwr": 1.56
+    },
+    {
+      "date": "2025-07-20",
+      "acwr": 1.53
+    },
+    {
+      "date": "2025-07-21",
+      "acwr": 1.53
+    },
+    {
+      "date": "2025-07-22",
+      "acwr": 1.73
+    },
+    {
+      "date": "2025-07-23",
+      "acwr": 1.73
+    },
+    {
+      "date": "2025-07-24",
+      "acwr": 1.54
+    },
+    {
+      "date": "2025-07-25",
+      "acwr": 1.54
+    },
+    {
+      "date": "2025-07-26",
+      "acwr": 1.38
+    },
+    {
+      "date": "2025-07-27",
+      "acwr": 1.2
+    },
+    {
+      "date": "2025-07-28",
+      "acwr": 1.2
+    },
+    {
+      "date": "2025-07-29",
+      "acwr": 1.15
+    },
+    {
+      "date": "2025-07-30",
+      "acwr": 1.15
+    },
+    {
+      "date": "2025-07-31",
+      "acwr": 1.07
+    },
+    {
+      "date": "2025-08-01",
+      "acwr": 1.07
+    },
+    {
+      "date": "2025-08-02",
+      "acwr": 1.05
+    },
+    {
+      "date": "2025-08-03",
+      "acwr": 0.98
+    },
+    {
+      "date": "2025-08-04",
+      "acwr": 0.98
+    },
+    {
+      "date": "2025-08-05",
+      "acwr": 0.79
+    },
+    {
+      "date": "2025-08-06",
+      "acwr": 0.79
+    },
+    {
+      "date": "2025-08-07",
+      "acwr": 0.83
+    },
+    {
+      "date": "2025-08-08",
+      "acwr": 0.83
+    },
+    {
+      "date": "2025-08-09",
+      "acwr": 0.78
+    },
+    {
+      "date": "2025-08-10",
+      "acwr": 0.7
+    },
+    {
+      "date": "2025-08-11",
+      "acwr": 0.7
+    },
+    {
+      "date": "2025-08-12",
+      "acwr": 0.7
+    },
+    {
+      "date": "2025-08-13",
+      "acwr": 0.7
+    },
+    {
+      "date": "2025-08-14",
+      "acwr": 0.73
+    },
+    {
+      "date": "2025-08-15",
+      "acwr": 0.73
+    },
+    {
+      "date": "2025-08-16",
+      "acwr": 0.63
+    },
+    {
+      "date": "2025-08-17",
+      "acwr": 0.67
+    },
+    {
+      "date": "2025-08-18",
+      "acwr": 0.67
+    },
+    {
+      "date": "2025-08-19",
+      "acwr": 0.96
+    },
+    {
+      "date": "2025-08-20",
+      "acwr": 0.96
+    },
+    {
+      "date": "2025-08-21",
+      "acwr": 1.07
+    },
+    {
+      "date": "2025-08-22",
+      "acwr": 1.07
+    },
+    {
+      "date": "2025-08-23",
+      "acwr": 1.27
+    },
+    {
+      "date": "2025-08-24",
+      "acwr": 1.32
+    },
+    {
+      "date": "2025-08-25",
+      "acwr": 1.32
+    },
+    {
+      "date": "2025-08-26",
+      "acwr": 1.1
+    },
+    {
+      "date": "2025-08-27",
+      "acwr": 1.1
+    },
+    {
+      "date": "2025-08-28",
+      "acwr": 0.92
+    },
+    {
+      "date": "2025-08-29",
+      "acwr": 0.92
+    },
+    {
+      "date": "2025-08-30",
+      "acwr": 0.81
+    },
+    {
+      "date": "2025-08-31",
+      "acwr": 0.26
+    },
+    {
+      "date": "2025-09-01",
+      "acwr": 0.26
+    },
+    {
+      "date": "2025-09-02",
+      "acwr": 0.54
+    },
+    {
+      "date": "2025-09-03",
+      "acwr": 0.54
+    },
+    {
+      "date": "2025-09-04",
+      "acwr": 0.55
+    },
+    {
+      "date": "2025-09-05",
+      "acwr": 0.55
+    },
+    {
+      "date": "2025-09-06",
+      "acwr": 0.33
+    },
+    {
+      "date": "2025-09-07",
+      "acwr": 0.53
+    },
+    {
+      "date": "2025-09-08",
+      "acwr": 0.53
+    },
+    {
+      "date": "2025-09-09",
+      "acwr": 0.15
+    },
+    {
+      "date": "2025-09-10",
+      "acwr": 0.15
+    },
+    {
+      "date": "2025-09-11",
+      "acwr": 0.15
+    },
+    {
+      "date": "2025-09-12",
+      "acwr": 0.15
+    },
+    {
+      "date": "2025-09-13",
+      "acwr": 0.16
+    },
+    {
+      "date": "2025-09-14",
+      "acwr": 0.0
+    },
+    {
+      "date": "2025-09-15",
+      "acwr": 0.0
+    },
+    {
+      "date": "2025-09-16",
+      "acwr": 0.0
+    },
+    {
+      "date": "2025-09-17",
+      "acwr": 0.0
+    },
+    {
+      "date": "2025-09-18",
+      "acwr": 0.0
+    },
+    {
+      "date": "2025-09-19",
+      "acwr": 0.0
+    },
+    {
+      "date": "2025-09-20",
+      "acwr": 0.0
+    },
+    {
+      "date": "2025-09-21",
+      "acwr": 0.0
+    },
+    {
+      "date": "2025-09-22",
+      "acwr": 0.0
+    },
+    {
+      "date": "2025-09-23",
+      "acwr": 0.0
+    },
+    {
+      "date": "2025-09-24",
+      "acwr": 0.0
+    },
+    {
+      "date": "2025-09-25",
+      "acwr": 0.0
+    },
+    {
+      "date": "2025-09-26",
+      "acwr": 0.0
+    },
+    {
+      "date": "2025-09-27",
+      "acwr": 0.0
+    },
+    {
+      "date": "2025-09-28",
+      "acwr": 0.0
+    },
+    {
+      "date": "2025-09-29",
+      "acwr": 0.0
+    },
+    {
+      "date": "2025-09-30",
+      "acwr": 0.0
+    },
+    {
+      "date": "2025-10-01",
+      "acwr": 0.0
+    },
+    {
+      "date": "2025-10-02",
+      "acwr": 0.0
+    },
+    {
+      "date": "2025-10-03",
+      "acwr": 0.0
+    },
+    {
+      "date": "2025-10-04",
+      "acwr": 0.0
+    },
+    {
+      "date": "2025-10-07",
+      "acwr": 4.0
+    },
+    {
+      "date": "2025-10-08",
+      "acwr": 4.0
+    },
+    {
+      "date": "2025-10-09",
+      "acwr": 4.0
+    },
+    {
+      "date": "2025-10-10",
+      "acwr": 4.0
+    },
+    {
+      "date": "2025-10-11",
+      "acwr": 4.0
+    },
+    {
+      "date": "2025-10-12",
+      "acwr": 4.0
+    },
+    {
+      "date": "2025-10-13",
+      "acwr": 4.0
+    },
+    {
+      "date": "2025-10-14",
+      "acwr": 2.99
+    },
+    {
+      "date": "2025-10-15",
+      "acwr": 2.99
+    },
+    {
+      "date": "2025-10-16",
+      "acwr": 2.99
+    },
+    {
+      "date": "2025-10-17",
+      "acwr": 2.99
+    },
+    {
+      "date": "2025-10-18",
+      "acwr": 2.4
+    },
+    {
+      "date": "2025-10-19",
+      "acwr": 2.01
+    },
+    {
+      "date": "2025-10-20",
+      "acwr": 2.01
+    },
+    {
+      "date": "2025-10-21",
+      "acwr": 1.33
+    },
+    {
+      "date": "2025-10-22",
+      "acwr": 1.33
+    },
+    {
+      "date": "2025-10-23",
+      "acwr": 1.33
+    },
+    {
+      "date": "2025-10-24",
+      "acwr": 1.33
+    },
+    {
+      "date": "2025-10-25",
+      "acwr": 1.21
+    },
+    {
+      "date": "2025-10-26",
+      "acwr": 1.04
+    },
+    {
+      "date": "2025-10-27",
+      "acwr": 1.04
+    },
+    {
+      "date": "2025-10-28",
+      "acwr": 1.38
+    },
+    {
+      "date": "2025-10-29",
+      "acwr": 1.38
+    },
+    {
+      "date": "2025-10-30",
+      "acwr": 1.38
+    },
+    {
+      "date": "2025-10-31",
+      "acwr": 1.38
+    },
+    {
+      "date": "2025-11-01",
+      "acwr": 1.18
+    },
+    {
+      "date": "2025-11-02",
+      "acwr": 1.11
+    },
+    {
+      "date": "2025-11-03",
+      "acwr": 1.11
+    },
+    {
+      "date": "2025-11-04",
+      "acwr": 1.11
+    },
+    {
+      "date": "2025-11-05",
+      "acwr": 1.11
+    },
+    {
+      "date": "2025-11-06",
+      "acwr": 1.11
+    },
+    {
+      "date": "2025-11-07",
+      "acwr": 1.11
+    },
+    {
+      "date": "2025-11-08",
+      "acwr": 1.13
+    },
+    {
+      "date": "2025-11-09",
+      "acwr": 1.2
+    },
+    {
+      "date": "2025-11-10",
+      "acwr": 1.2
+    },
+    {
+      "date": "2025-11-11",
+      "acwr": 0.92
+    },
+    {
+      "date": "2025-11-12",
+      "acwr": 0.92
+    },
+    {
+      "date": "2025-11-13",
+      "acwr": 0.92
+    },
+    {
+      "date": "2025-11-14",
+      "acwr": 0.92
+    },
+    {
+      "date": "2025-11-15",
+      "acwr": 1.03
+    },
+    {
+      "date": "2025-11-16",
+      "acwr": 1.03
+    },
+    {
+      "date": "2025-11-17",
+      "acwr": 1.03
+    },
+    {
+      "date": "2025-11-18",
+      "acwr": 1.03
+    },
+    {
+      "date": "2025-11-19",
+      "acwr": 1.03
+    },
+    {
+      "date": "2025-11-20",
+      "acwr": 1.03
+    },
+    {
+      "date": "2025-11-21",
+      "acwr": 1.03
+    },
+    {
+      "date": "2025-11-22",
+      "acwr": 0.6
+    },
+    {
+      "date": "2025-11-23",
+      "acwr": 0.77
+    },
+    {
+      "date": "2025-11-24",
+      "acwr": 0.77
+    },
+    {
+      "date": "2025-11-25",
+      "acwr": 1.22
+    },
+    {
+      "date": "2025-11-26",
+      "acwr": 1.22
+    },
+    {
+      "date": "2025-11-27",
+      "acwr": 1.22
+    },
+    {
+      "date": "2025-11-28",
+      "acwr": 1.22
+    },
+    {
+      "date": "2025-11-29",
+      "acwr": 1.75
+    },
+    {
+      "date": "2025-11-30",
+      "acwr": 1.54
+    },
+    {
+      "date": "2025-12-01",
+      "acwr": 1.54
+    },
+    {
+      "date": "2025-12-02",
+      "acwr": 1.22
+    },
+    {
+      "date": "2025-12-03",
+      "acwr": 1.22
+    },
+    {
+      "date": "2025-12-04",
+      "acwr": 1.22
+    },
+    {
+      "date": "2025-12-05",
+      "acwr": 1.22
+    },
+    {
+      "date": "2025-12-06",
+      "acwr": 0.62
+    },
+    {
+      "date": "2025-12-07",
+      "acwr": 0.67
+    },
+    {
+      "date": "2025-12-08",
+      "acwr": 0.67
+    },
+    {
+      "date": "2025-12-09",
+      "acwr": 0.67
+    },
+    {
+      "date": "2025-12-10",
+      "acwr": 1.22
+    },
+    {
+      "date": "2025-12-11",
+      "acwr": 1.22
+    },
+    {
+      "date": "2025-12-12",
+      "acwr": 1.22
+    },
+    {
+      "date": "2025-12-13",
+      "acwr": 1.69
+    },
+    {
+      "date": "2025-12-14",
+      "acwr": 1.6
+    },
+    {
+      "date": "2025-12-15",
+      "acwr": 1.6
+    },
+    {
+      "date": "2025-12-16",
+      "acwr": 1.6
+    },
+    {
+      "date": "2025-12-17",
+      "acwr": 0.98
+    },
+    {
+      "date": "2025-12-18",
+      "acwr": 0.98
+    },
+    {
+      "date": "2025-12-19",
+      "acwr": 0.98
+    },
+    {
+      "date": "2025-12-20",
+      "acwr": 0.95
+    },
+    {
+      "date": "2025-12-21",
+      "acwr": 0.94
+    },
+    {
+      "date": "2025-12-22",
+      "acwr": 0.94
+    },
+    {
+      "date": "2025-12-23",
+      "acwr": 1.36
+    },
+    {
+      "date": "2025-12-24",
+      "acwr": 1.36
+    },
+    {
+      "date": "2025-12-25",
+      "acwr": 1.36
+    },
+    {
+      "date": "2025-12-26",
+      "acwr": 1.36
+    },
+    {
+      "date": "2025-12-27",
+      "acwr": 1.26
+    },
+    {
+      "date": "2025-12-28",
+      "acwr": 1.34
+    },
+    {
+      "date": "2025-12-29",
+      "acwr": 1.34
+    },
+    {
+      "date": "2025-12-30",
+      "acwr": 1.08
+    },
+    {
+      "date": "2025-12-31",
+      "acwr": 1.08
+    },
+    {
+      "date": "2026-01-01",
+      "acwr": 1.08
+    },
+    {
+      "date": "2026-01-02",
+      "acwr": 1.08
+    },
+    {
+      "date": "2026-01-03",
+      "acwr": 0.68
+    },
+    {
+      "date": "2026-01-04",
+      "acwr": 0.52
+    },
+    {
+      "date": "2026-01-05",
+      "acwr": 0.52
+    },
+    {
+      "date": "2026-01-06",
+      "acwr": 0.65
+    },
+    {
+      "date": "2026-01-07",
+      "acwr": 0.93
+    },
+    {
+      "date": "2026-01-08",
+      "acwr": 0.93
+    },
+    {
+      "date": "2026-01-09",
+      "acwr": 0.93
+    },
+    {
+      "date": "2026-01-10",
+      "acwr": 1.35
+    },
+    {
+      "date": "2026-01-11",
+      "acwr": 1.5
+    },
+    {
+      "date": "2026-01-12",
+      "acwr": 1.5
+    },
+    {
+      "date": "2026-01-13",
+      "acwr": 1.41
+    },
+    {
+      "date": "2026-01-14",
+      "acwr": 1.34
+    },
+    {
+      "date": "2026-01-15",
+      "acwr": 1.34
+    },
+    {
+      "date": "2026-01-16",
+      "acwr": 1.34
+    },
+    {
+      "date": "2026-01-17",
+      "acwr": 1.43
+    },
+    {
+      "date": "2026-01-18",
+      "acwr": 1.38
+    },
+    {
+      "date": "2026-01-19",
+      "acwr": 1.38
+    },
+    {
+      "date": "2026-01-20",
+      "acwr": 1.35
+    },
+    {
+      "date": "2026-01-21",
+      "acwr": 1.15
+    },
+    {
+      "date": "2026-01-22",
+      "acwr": 1.15
+    },
+    {
+      "date": "2026-01-23",
+      "acwr": 1.15
+    },
+    {
+      "date": "2026-01-24",
+      "acwr": 1.13
+    },
+    {
+      "date": "2026-01-25",
+      "acwr": 1.17
+    },
+    {
+      "date": "2026-01-26",
+      "acwr": 1.17
+    },
+    {
+      "date": "2026-01-27",
+      "acwr": 1.12
+    },
+    {
+      "date": "2026-01-28",
+      "acwr": 1.24
+    },
+    {
+      "date": "2026-01-29",
+      "acwr": 1.24
+    },
+    {
+      "date": "2026-01-30",
+      "acwr": 1.24
+    },
+    {
+      "date": "2026-01-31",
+      "acwr": 0.99
+    },
+    {
+      "date": "2026-02-01",
+      "acwr": 0.88
+    },
+    {
+      "date": "2026-02-02",
+      "acwr": 0.88
+    },
+    {
+      "date": "2026-02-03",
+      "acwr": 0.85
+    },
+    {
+      "date": "2026-02-04",
+      "acwr": 0.75
+    },
+    {
+      "date": "2026-02-05",
+      "acwr": 0.75
+    },
+    {
+      "date": "2026-02-06",
+      "acwr": 0.75
+    },
+    {
+      "date": "2026-02-07",
+      "acwr": 0.95
+    },
+    {
+      "date": "2026-02-08",
+      "acwr": 1.04
+    },
+    {
+      "date": "2026-02-09",
+      "acwr": 1.04
+    },
+    {
+      "date": "2026-02-10",
+      "acwr": 1.05
+    },
+    {
+      "date": "2026-02-11",
+      "acwr": 1.18
+    },
+    {
+      "date": "2026-02-12",
+      "acwr": 1.18
+    },
+    {
+      "date": "2026-02-13",
+      "acwr": 1.18
+    },
+    {
+      "date": "2026-02-14",
+      "acwr": 1.18
+    },
+    {
+      "date": "2026-02-15",
+      "acwr": 1.2
+    },
+    {
+      "date": "2026-02-16",
+      "acwr": 1.2
+    },
+    {
+      "date": "2026-02-17",
+      "acwr": 1.05
+    },
+    {
+      "date": "2026-02-18",
+      "acwr": 0.89
+    },
+    {
+      "date": "2026-02-19",
+      "acwr": 1.01
+    },
+    {
+      "date": "2026-02-20",
+      "acwr": 1.01
+    },
+    {
+      "date": "2026-02-21",
+      "acwr": 1.03
+    },
+    {
+      "date": "2026-02-22",
+      "acwr": 0.72
+    },
+    {
+      "date": "2026-02-23",
+      "acwr": 0.72
+    },
+    {
+      "date": "2026-02-24",
+      "acwr": 0.64
+    },
+    {
+      "date": "2026-02-25",
+      "acwr": 0.81
+    },
+    {
+      "date": "2026-02-26",
+      "acwr": 0.77
+    },
+    {
+      "date": "2026-02-27",
+      "acwr": 0.77
+    },
+    {
+      "date": "2026-02-28",
+      "acwr": 0.6
+    },
+    {
+      "date": "2026-03-01",
+      "acwr": 0.63
+    },
+    {
+      "date": "2026-03-02",
+      "acwr": 0.63
+    },
+    {
+      "date": "2026-03-03",
+      "acwr": 1.01
+    },
+    {
+      "date": "2026-03-04",
+      "acwr": 0.86
+    },
+    {
+      "date": "2026-03-05",
+      "acwr": 0.82
+    },
+    {
+      "date": "2026-03-06",
+      "acwr": 0.82
+    },
+    {
+      "date": "2026-03-07",
+      "acwr": 0.98
+    },
+    {
+      "date": "2026-03-08",
+      "acwr": 1.4
+    },
+    {
+      "date": "2026-03-09",
+      "acwr": 1.4
+    },
+    {
+      "date": "2026-03-10",
+      "acwr": 1.4
+    },
+    {
+      "date": "2026-03-11",
+      "acwr": 1.46
+    },
+    {
+      "date": "2026-03-12",
+      "acwr": 1.4
+    },
+    {
+      "date": "2026-03-13",
+      "acwr": 1.4
+    },
+    {
+      "date": "2026-03-14",
+      "acwr": 1.4
+    },
+    {
+      "date": "2026-03-15",
+      "acwr": 1.06
+    },
+    {
+      "date": "2026-03-16",
+      "acwr": 1.06
+    },
+    {
+      "date": "2026-03-17",
+      "acwr": 0.95
+    },
+    {
+      "date": "2026-03-18",
+      "acwr": 0.95
+    },
+    {
+      "date": "2026-03-19",
+      "acwr": 0.81
+    },
+    {
+      "date": "2026-03-20",
+      "acwr": 0.81
+    },
+    {
+      "date": "2026-03-21",
+      "acwr": 0.34
+    },
+    {
+      "date": "2026-03-22",
+      "acwr": 0.34
+    },
+    {
+      "date": "2026-03-23",
+      "acwr": 0.34
+    },
+    {
+      "date": "2026-03-24",
+      "acwr": 0.4
+    },
+    {
+      "date": "2026-03-25",
+      "acwr": 0.56
+    },
+    {
+      "date": "2026-03-26",
+      "acwr": 0.59
+    },
+    {
+      "date": "2026-03-27",
+      "acwr": 0.59
+    },
+    {
+      "date": "2026-03-28",
+      "acwr": 0.8
+    },
+    {
+      "date": "2026-03-29",
+      "acwr": 0.8
+    },
+    {
+      "date": "2026-03-30",
+      "acwr": 0.8
+    },
+    {
+      "date": "2026-03-31",
+      "acwr": 0.77
+    },
+    {
+      "date": "2026-04-01",
+      "acwr": 0.76
+    },
+    {
+      "date": "2026-04-02",
+      "acwr": 0.79
+    },
+    {
+      "date": "2026-04-03",
+      "acwr": 0.79
+    },
+    {
+      "date": "2026-04-04",
+      "acwr": 1.17
+    },
+    {
+      "date": "2026-04-05",
+      "acwr": 1.76
+    },
+    {
+      "date": "2026-04-06",
+      "acwr": 1.76
+    },
+    {
+      "date": "2026-04-07",
+      "acwr": 1.78
+    },
+    {
+      "date": "2026-04-08",
+      "acwr": 1.7
+    },
+    {
+      "date": "2026-04-09",
+      "acwr": 1.78
+    },
+    {
+      "date": "2026-04-10",
+      "acwr": 1.78
+    },
+    {
+      "date": "2026-04-11",
+      "acwr": 1.41
+    },
+    {
+      "date": "2026-04-12",
+      "acwr": 1.01
+    },
+    {
+      "date": "2026-04-13",
+      "acwr": 1.01
+    },
+    {
+      "date": "2026-04-14",
+      "acwr": 0.64
+    },
+    {
+      "date": "2026-04-15",
+      "acwr": 0.82
+    },
+    {
+      "date": "2026-04-16",
+      "acwr": 0.97
+    },
+    {
+      "date": "2026-04-17",
+      "acwr": 0.97
+    },
+    {
+      "date": "2026-04-18",
+      "acwr": 1.35
+    },
+    {
+      "date": "2026-04-19",
+      "acwr": 1.43
+    },
+    {
+      "date": "2026-04-20",
+      "acwr": 1.43
+    },
+    {
+      "date": "2026-04-21",
+      "acwr": 1.73
+    },
+    {
+      "date": "2026-04-22",
+      "acwr": 1.54
+    },
+    {
+      "date": "2026-04-23",
+      "acwr": 1.39
+    },
+    {
+      "date": "2026-04-24",
+      "acwr": 1.39
+    },
+    {
+      "date": "2026-04-25",
+      "acwr": 1.0
+    },
+    {
+      "date": "2026-04-26",
+      "acwr": 0.7
+    },
+    {
+      "date": "2026-04-27",
+      "acwr": 0.7
+    },
+    {
+      "date": "2026-04-28",
+      "acwr": 0.69
+    },
+    {
+      "date": "2026-04-29",
+      "acwr": 0.58
+    },
+    {
+      "date": "2026-04-30",
+      "acwr": 0.58
+    },
+    {
+      "date": "2026-05-01",
+      "acwr": 0.58
+    },
+    {
+      "date": "2026-05-02",
+      "acwr": 1.0
+    },
+    {
+      "date": "2026-05-03",
+      "acwr": 1.24
+    },
+    {
+      "date": "2026-05-04",
+      "acwr": 1.24
+    },
+    {
+      "date": "2026-05-05",
+      "acwr": 1.24
+    },
+    {
+      "date": "2026-05-06",
+      "acwr": 1.38
+    },
+    {
+      "date": "2026-05-07",
+      "acwr": 1.38
+    },
+    {
+      "date": "2026-05-08",
+      "acwr": 1.38
+    },
+    {
+      "date": "2026-05-09",
+      "acwr": 1.26
+    },
+    {
+      "date": "2026-05-10",
+      "acwr": 1.2
+    },
+    {
+      "date": "2026-05-11",
+      "acwr": 1.2
+    },
+    {
+      "date": "2026-05-12",
+      "acwr": 1.12
+    },
+    {
+      "date": "2026-05-13",
+      "acwr": 1.16
+    },
+    {
+      "date": "2026-05-14",
+      "acwr": 1.19
+    },
+    {
+      "date": "2026-05-15",
+      "acwr": 1.19
+    },
+    {
+      "date": "2026-05-16",
+      "acwr": 1.19
+    },
+    {
+      "date": "2026-05-17",
+      "acwr": 1.18
+    },
+    {
+      "date": "2026-05-18",
+      "acwr": 1.18
+    },
+    {
+      "date": "2026-05-19",
+      "acwr": 1.2
+    },
+    {
+      "date": "2026-05-20",
+      "acwr": 1.19
+    },
+    {
+      "date": "2026-05-21",
+      "acwr": 1.19
+    },
+    {
+      "date": "2026-05-22",
+      "acwr": 1.19
+    },
+    {
+      "date": "2026-05-23",
+      "acwr": 1.0
+    },
+    {
+      "date": "2026-05-24",
+      "acwr": 0.95
+    },
+    {
+      "date": "2026-05-25",
+      "acwr": 0.95
+    },
+    {
+      "date": "2026-05-26",
+      "acwr": 0.76
+    },
+    {
+      "date": "2026-05-27",
+      "acwr": 0.66
+    },
+    {
+      "date": "2026-05-28",
+      "acwr": 0.83
+    },
+    {
+      "date": "2026-05-29",
+      "acwr": 0.83
+    },
+    {
+      "date": "2026-05-30",
+      "acwr": 0.86
+    },
+    {
+      "date": "2026-05-31",
+      "acwr": 0.67
+    },
+    {
+      "date": "2026-06-01",
+      "acwr": 0.67
+    },
+    {
+      "date": "2026-06-02",
+      "acwr": 0.91
+    }
+  ]
+}

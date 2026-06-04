@@ -6,6 +6,7 @@ Input: runs_clean.parquet -> Output: metrik turunan (ACWR, tren MAF, dll)
 import pandas as pd
 import numpy as np
 import config
+import json
 
 
 def load_clean():
@@ -77,50 +78,74 @@ def compute_maf_trend(df, recent_days=90):
     result = {
         "n_runs_total": len(maf),
         "n_runs_recent": len(recent),
-        "slope_overall_per_month": round(overall, 3) if overall else None,
-        "slope_recent_per_month": round(recent_slope, 3) if recent_slope else None,
-        "pace_now": round(
-            maf["pace_min_per_km"].tail(5).mean(), 2
-        ),  # rata2 5 lari terakhir
-        "improving_recent": recent_slope < 0 if recent_slope else None,
+        "slope_overall_per_month": round(overall, 3) if overall is not None else None,
+        "slope_recent_per_month": round(recent_slope, 3)
+        if recent_slope is not None
+        else None,
+        "pace_now": round(maf["pace_min_per_km"].tail(5).mean(), 2),
+        "improving_recent": (recent_slope < 0) if recent_slope is not None else None,
     }
     return result
 
 
-def estimate_5k_time(df, target_pace=5.0):
+def estimate_5k_time(df, target_pace=5.0, recent_days=120, effort_hr_min=160):
     """
-    Estimasi waktu 5K dari best effort, pakai formula Riegel.
-    target_pace: pace target dalam min/km (default 5.0 = 25:00 utk 5K).
-
-    CATATAN: estimasi kasar. Riegel paling akurat dari usaha maksimal.
-    Karena data didominasi MAF easy, kita pakai best effort sbg proxy.
+    Estimasi 5K via Riegel dari best effort RECENT (bukan sepanjang masa).
+    Beri warning kalau best effort ternyata HR rendah (= bukan usaha maksimal,
+    estimasi jadi tidak reliable).
     """
-    # Ambil lari dengan effort tinggi: jarak >= 3km, pace tercepat
-    candidates = df[df["distance_km"] >= 3.0].copy()
+    cutoff = df["date"].max() - pd.Timedelta(days=recent_days)
+    candidates = df[(df["distance_km"] >= 3.0) & (df["date"] >= cutoff)].copy()
     if len(candidates) == 0:
         return None
 
-    # Best effort = pace tercepat di antara lari >=3km
     best = candidates.loc[candidates["pace_min_per_km"].idxmin()]
-    d1 = best["distance_km"]
-    t1 = best["moving_min"]  # menit
+    d1, t1 = best["distance_km"], best["moving_min"]
+    t2_5k = t1 * (5.0 / d1) ** 1.06
 
-    # Riegel: T2 = T1 * (D2/D1)^1.06
-    d2 = 5.0
-    t2_5k = t1 * (d2 / d1) ** 1.06
-    pace_5k_est = t2_5k / 5.0  # menit per km
+    # Apakah best effort ini benar-benar usaha tinggi?
+    is_real_effort = best["avg_hr"] >= effort_hr_min
 
-    # Jarak ke target
-    target_time = target_pace * 5.0  # menit utk 5K di target pace
-    gap_min = t2_5k - target_time
-
-    result = {
-        "best_effort_dist_km": round(d1, 2),
-        "best_effort_pace": round(best["pace_min_per_km"], 2),
+    return {
         "best_effort_date": str(best["date"].date()),
+        "best_effort_pace": round(best["pace_min_per_km"], 2),
+        "best_effort_hr": round(best["avg_hr"], 0),
         "est_5k_time_min": round(t2_5k, 1),
-        "est_5k_pace": round(pace_5k_est, 2),
-        "target_5k_time_min": round(target_time, 1),
-        "gap_to_target_min": round(gap_min, 1),
+        "gap_to_target_min": round(t2_5k - target_pace * 5.0, 1),
+        "is_reliable": bool(is_real_effort),
+        "warning": None
+        if is_real_effort
+        else "Best effort recent HR rendah = bukan usaha maksimal. Estimasi tidak reliable. Perlu time-trial!",
     }
-    return result
+
+
+def build_features():
+    """Jalankan semua metrik, kumpulkan jadi satu dict ringkasan."""
+    df = load_clean()
+
+    acwr_df = compute_acwr(df)
+    latest_acwr = acwr_df.dropna(subset=["acwr"]).iloc[
+        -1
+    ]  # baris ACWR terakhir yang valid
+
+    summary = {
+        "n_runs": len(df),
+        "date_range": {
+            "start": str(df["date"].min().date()),
+            "end": str(df["date"].max().date()),
+        },
+        "acwr": {
+            "current": round(float(latest_acwr["acwr"]), 2),
+            "acute_load_min": round(float(latest_acwr["acute_load"]), 1),
+            "chronic_load_min": round(float(latest_acwr["chronic_load"]), 1),
+        },
+        "maf_trend": compute_maf_trend(df),
+        "race_5k": estimate_5k_time(df),
+    }
+    return summary, acwr_df
+
+
+if __name__ == "__main__":
+    summary, acwr_df = build_features()
+    print("\n=== RINGKASAN METRIK ===")
+    print(json.dumps(summary, indent=2, default=str))
