@@ -1,21 +1,21 @@
 {
   "summary": {
-    "n_runs": 147,
+    "n_runs": 149,
     "date_range": {
       "start": "2025-05-27",
-      "end": "2026-06-02"
+      "end": "2026-06-07"
     },
     "acwr": {
-      "current": 0.91,
-      "acute_load_min": 220.5,
-      "chronic_load_min": 242.1
+      "current": 0.89,
+      "acute_load_min": 197.3,
+      "chronic_load_min": 221.5
     },
     "maf_trend": {
-      "n_runs_total": 89,
+      "n_runs_total": 91,
       "n_runs_recent": 36,
       "slope_overall_per_month": -0.032,
-      "slope_recent_per_month": -0.395,
-      "pace_now": 8.01,
+      "slope_recent_per_month": -0.344,
+      "pace_now": 8.15,
       "improving_recent": true
     },
     "race_5k": {
@@ -1645,6 +1645,28 @@
       "is_aerobic_session": true,
       "year_month": "2026-06",
       "week": "2026-06-01/2026-06-07"
+    },
+    {
+      "date": "2026-06-06 17:14:45",
+      "distance_km": 6.4154,
+      "moving_min": 55.7,
+      "pace_min_per_km": 8.680555555555557,
+      "avg_hr": 152.8,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-06",
+      "week": "2026-06-01/2026-06-07"
+    },
+    {
+      "date": "2026-06-07 06:15:28",
+      "distance_km": 10.9322,
+      "moving_min": 84.3,
+      "pace_min_per_km": 7.712478790683326,
+      "avg_hr": 151.7,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-06",
+      "week": "2026-06-01/2026-06-07"
     }
   ],
   "acwr_timeline": [
@@ -3127,6 +3149,788 @@
     {
       "date": "2026-06-02",
       "acwr": 0.91
+    },
+    {
+      "date": "2026-06-03",
+      "acwr": 0.94
+    },
+    {
+      "date": "2026-06-04",
+      "acwr": 0.71
+    },
+    {
+      "date": "2026-06-05",
+      "acwr": 0.71
+    },
+    {
+      "date": "2026-06-06",
+      "acwr": 0.74
+    },
+    {
+      "date": "2026-06-07",
+      "acwr": 0.89
     }
-  ]
+  ],
+  "aggregates": {
+    "weekly": [
+      {
+        "week": "2025-05-26/2025-06-01",
+        "n_runs": 3,
+        "total_min": 133.8,
+        "total_km": 18.2,
+        "avg_pace": 7.21,
+        "median_pace": 7.05,
+        "avg_hr": 170.5,
+        "hr_std": 2.0,
+        "pct_aerobic": 0.0,
+        "maf_pace": null
+      },
+      {
+        "week": "2025-06-02/2025-06-08",
+        "n_runs": 2,
+        "total_min": 67.8,
+        "total_km": 8.2,
+        "avg_pace": 8.41,
+        "median_pace": 8.41,
+        "avg_hr": 153.8,
+        "hr_std": 16.1,
+        "pct_aerobic": 50.0,
+        "maf_pace": null
+      },
+      {
+        "week": "2025-06-09/2025-06-15",
+        "n_runs": 3,
+        "total_min": 180.6,
+        "total_km": 21.3,
+        "avg_pace": 8.72,
+        "median_pace": 9.16,
+        "avg_hr": 153.8,
+        "hr_std": 15.4,
+        "pct_aerobic": 67.0,
+        "maf_pace": null
+      },
+      {
+        "week": "2025-06-16/2025-06-22",
+        "n_runs": 3,
+        "total_min": 148.2,
+        "total_km": 19.9,
+        "avg_pace": 7.07,
+        "median_pace": 7.69,
+        "avg_hr": 166.6,
+        "hr_std": 1.6,
+        "pct_aerobic": 0.0,
+        "maf_pace": null
+      },
+      {
+        "week": "2025-06-30/2025-07-06",
+        "n_runs": 4,
+        "total_min": 125.9,
+        "total_km": 17.7,
+        "avg_pace": 6.74,
+        "median_pace": 7.02,
+        "avg_hr": 169.4,
+        "hr_std": 4.0,
+        "pct_aerobic": 0.0,
+        "maf_pace": null
+      },
+      {
+        "week": "2025-07-07/2025-07-13",
+        "n_runs": 4,
+        "total_min": 222.7,
+        "total_km": 28.0,
+        "avg_pace": 8.01,
+        "median_pace": 8.15,
+        "avg_hr": 160.5,
+        "hr_std": 4.6,
+        "pct_aerobic": 50.0,
+        "maf_pace": 8.54
+      },
+      {
+        "week": "2025-07-14/2025-07-20",
+        "n_runs": 3,
+        "total_min": 215.0,
+        "total_km": 27.0,
+        "avg_pace": 8.04,
+        "median_pace": 7.8,
+        "avg_hr": 161.5,
+        "hr_std": 6.9,
+        "pct_aerobic": 33.0,
+        "maf_pace": 9.34
+      },
+      {
+        "week": "2025-07-21/2025-07-27",
+        "n_runs": 4,
+        "total_min": 241.7,
+        "total_km": 30.7,
+        "avg_pace": 7.83,
+        "median_pace": 7.81,
+        "avg_hr": 159.0,
+        "hr_std": 2.6,
+        "pct_aerobic": 75.0,
+        "maf_pace": 7.8
+      },
+      {
+        "week": "2025-07-28/2025-08-03",
+        "n_runs": 4,
+        "total_min": 221.1,
+        "total_km": 29.6,
+        "avg_pace": 7.11,
+        "median_pace": 7.58,
+        "avg_hr": 157.0,
+        "hr_std": 5.6,
+        "pct_aerobic": 50.0,
+        "maf_pace": 8.03
+      },
+      {
+        "week": "2025-08-04/2025-08-10",
+        "n_runs": 3,
+        "total_min": 144.8,
+        "total_km": 18.7,
+        "avg_pace": 7.11,
+        "median_pace": 7.38,
+        "avg_hr": 162.4,
+        "hr_std": 5.0,
+        "pct_aerobic": 33.0,
+        "maf_pace": 8.5
+      },
+      {
+        "week": "2025-08-11/2025-08-17",
+        "n_runs": 3,
+        "total_min": 121.7,
+        "total_km": 17.5,
+        "avg_pace": 5.91,
+        "median_pace": 5.11,
+        "avg_hr": 162.4,
+        "hr_std": 1.6,
+        "pct_aerobic": 0.0,
+        "maf_pace": null
+      },
+      {
+        "week": "2025-08-18/2025-08-24",
+        "n_runs": 4,
+        "total_min": 239.8,
+        "total_km": 30.5,
+        "avg_pace": 7.78,
+        "median_pace": 8.17,
+        "avg_hr": 158.8,
+        "hr_std": 6.6,
+        "pct_aerobic": 75.0,
+        "maf_pace": 8.27
+      },
+      {
+        "week": "2025-08-25/2025-08-31",
+        "n_runs": 1,
+        "total_min": 35.4,
+        "total_km": 4.7,
+        "avg_pace": 7.6,
+        "median_pace": 7.6,
+        "avg_hr": 161.1,
+        "hr_std": null,
+        "pct_aerobic": 0.0,
+        "maf_pace": null
+      },
+      {
+        "week": "2025-09-01/2025-09-07",
+        "n_runs": 2,
+        "total_min": 60.3,
+        "total_km": 8.2,
+        "avg_pace": 7.59,
+        "median_pace": 7.59,
+        "avg_hr": 164.2,
+        "hr_std": 5.2,
+        "pct_aerobic": 0.0,
+        "maf_pace": null
+      },
+      {
+        "week": "2025-10-06/2025-10-12",
+        "n_runs": 3,
+        "total_min": 59.5,
+        "total_km": 6.5,
+        "avg_pace": 9.22,
+        "median_pace": 9.25,
+        "avg_hr": 149.7,
+        "hr_std": 1.4,
+        "pct_aerobic": 100.0,
+        "maf_pace": 8.93
+      },
+      {
+        "week": "2025-10-13/2025-10-19",
+        "n_runs": 3,
+        "total_min": 60.4,
+        "total_km": 6.9,
+        "avg_pace": 8.75,
+        "median_pace": 8.98,
+        "avg_hr": 151.8,
+        "hr_std": 2.2,
+        "pct_aerobic": 100.0,
+        "maf_pace": 8.75
+      },
+      {
+        "week": "2025-10-20/2025-10-26",
+        "n_runs": 2,
+        "total_min": 42.2,
+        "total_km": 4.9,
+        "avg_pace": 8.69,
+        "median_pace": 8.69,
+        "avg_hr": 149.6,
+        "hr_std": 1.1,
+        "pct_aerobic": 100.0,
+        "maf_pace": 8.76
+      },
+      {
+        "week": "2025-10-27/2025-11-02",
+        "n_runs": 3,
+        "total_min": 62.0,
+        "total_km": 7.3,
+        "avg_pace": 8.53,
+        "median_pace": 8.39,
+        "avg_hr": 150.5,
+        "hr_std": 0.9,
+        "pct_aerobic": 100.0,
+        "maf_pace": 8.37
+      },
+      {
+        "week": "2025-11-03/2025-11-09",
+        "n_runs": 3,
+        "total_min": 70.6,
+        "total_km": 8.3,
+        "avg_pace": 8.5,
+        "median_pace": 8.49,
+        "avg_hr": 153.3,
+        "hr_std": 0.5,
+        "pct_aerobic": 100.0,
+        "maf_pace": 8.5
+      },
+      {
+        "week": "2025-11-10/2025-11-16",
+        "n_runs": 2,
+        "total_min": 60.8,
+        "total_km": 7.3,
+        "avg_pace": 8.28,
+        "median_pace": 8.28,
+        "avg_hr": 159.2,
+        "hr_std": 3.7,
+        "pct_aerobic": 50.0,
+        "maf_pace": 8.56
+      },
+      {
+        "week": "2025-11-17/2025-11-23",
+        "n_runs": 1,
+        "total_min": 45.8,
+        "total_km": 5.6,
+        "avg_pace": 8.14,
+        "median_pace": 8.14,
+        "avg_hr": 156.8,
+        "hr_std": null,
+        "pct_aerobic": 100.0,
+        "maf_pace": 8.14
+      },
+      {
+        "week": "2025-11-24/2025-11-30",
+        "n_runs": 3,
+        "total_min": 111.4,
+        "total_km": 14.0,
+        "avg_pace": 8.06,
+        "median_pace": 8.0,
+        "avg_hr": 158.0,
+        "hr_std": 2.2,
+        "pct_aerobic": 100.0,
+        "maf_pace": 8.06
+      },
+      {
+        "week": "2025-12-01/2025-12-07",
+        "n_runs": 1,
+        "total_min": 43.9,
+        "total_km": 5.2,
+        "avg_pace": 8.5,
+        "median_pace": 8.5,
+        "avg_hr": 160.8,
+        "hr_std": null,
+        "pct_aerobic": 0.0,
+        "maf_pace": null
+      },
+      {
+        "week": "2025-12-08/2025-12-14",
+        "n_runs": 3,
+        "total_min": 133.5,
+        "total_km": 15.7,
+        "avg_pace": 8.53,
+        "median_pace": 8.44,
+        "avg_hr": 153.7,
+        "hr_std": 4.9,
+        "pct_aerobic": 100.0,
+        "maf_pace": 8.26
+      },
+      {
+        "week": "2025-12-15/2025-12-21",
+        "n_runs": 2,
+        "total_min": 88.8,
+        "total_km": 11.0,
+        "avg_pace": 8.16,
+        "median_pace": 8.16,
+        "avg_hr": 153.4,
+        "hr_std": 7.8,
+        "pct_aerobic": 100.0,
+        "maf_pace": 7.73
+      },
+      {
+        "week": "2025-12-22/2025-12-28",
+        "n_runs": 3,
+        "total_min": 133.7,
+        "total_km": 15.6,
+        "avg_pace": 8.6,
+        "median_pace": 8.73,
+        "avg_hr": 154.0,
+        "hr_std": 4.3,
+        "pct_aerobic": 100.0,
+        "maf_pace": 8.83
+      },
+      {
+        "week": "2025-12-29/2026-01-04",
+        "n_runs": 2,
+        "total_min": 53.6,
+        "total_km": 6.3,
+        "avg_pace": 8.52,
+        "median_pace": 8.52,
+        "avg_hr": 147.0,
+        "hr_std": 0.3,
+        "pct_aerobic": 100.0,
+        "maf_pace": null
+      },
+      {
+        "week": "2026-01-05/2026-01-11",
+        "n_runs": 4,
+        "total_min": 166.4,
+        "total_km": 19.5,
+        "avg_pace": 8.56,
+        "median_pace": 8.49,
+        "avg_hr": 151.7,
+        "hr_std": 1.1,
+        "pct_aerobic": 100.0,
+        "maf_pace": 8.56
+      },
+      {
+        "week": "2026-01-12/2026-01-18",
+        "n_runs": 4,
+        "total_min": 186.8,
+        "total_km": 22.0,
+        "avg_pace": 8.45,
+        "median_pace": 8.44,
+        "avg_hr": 155.1,
+        "hr_std": 3.1,
+        "pct_aerobic": 100.0,
+        "maf_pace": 8.45
+      },
+      {
+        "week": "2026-01-19/2026-01-25",
+        "n_runs": 3,
+        "total_min": 168.7,
+        "total_km": 19.8,
+        "avg_pace": 8.53,
+        "median_pace": 8.64,
+        "avg_hr": 156.2,
+        "hr_std": 2.8,
+        "pct_aerobic": 100.0,
+        "maf_pace": 8.53
+      },
+      {
+        "week": "2026-01-26/2026-02-01",
+        "n_runs": 4,
+        "total_min": 147.9,
+        "total_km": 16.8,
+        "avg_pace": 8.78,
+        "median_pace": 8.83,
+        "avg_hr": 147.8,
+        "hr_std": 5.1,
+        "pct_aerobic": 100.0,
+        "maf_pace": 8.83
+      },
+      {
+        "week": "2026-02-02/2026-02-08",
+        "n_runs": 4,
+        "total_min": 178.0,
+        "total_km": 20.4,
+        "avg_pace": 8.42,
+        "median_pace": 8.7,
+        "avg_hr": 148.7,
+        "hr_std": 6.1,
+        "pct_aerobic": 75.0,
+        "maf_pace": 8.79
+      },
+      {
+        "week": "2026-02-09/2026-02-15",
+        "n_runs": 4,
+        "total_min": 211.0,
+        "total_km": 24.4,
+        "avg_pace": 8.61,
+        "median_pace": 8.71,
+        "avg_hr": 152.8,
+        "hr_std": 3.9,
+        "pct_aerobic": 100.0,
+        "maf_pace": 8.72
+      },
+      {
+        "week": "2026-02-16/2026-02-22",
+        "n_runs": 3,
+        "total_min": 117.2,
+        "total_km": 15.2,
+        "avg_pace": 7.53,
+        "median_pace": 8.77,
+        "avg_hr": 153.0,
+        "hr_std": 9.4,
+        "pct_aerobic": 67.0,
+        "maf_pace": 4.96
+      },
+      {
+        "week": "2026-02-23/2026-03-01",
+        "n_runs": 3,
+        "total_min": 95.3,
+        "total_km": 10.6,
+        "avg_pace": 8.96,
+        "median_pace": 8.94,
+        "avg_hr": 151.6,
+        "hr_std": 2.2,
+        "pct_aerobic": 100.0,
+        "maf_pace": 8.9
+      },
+      {
+        "week": "2026-03-02/2026-03-08",
+        "n_runs": 4,
+        "total_min": 228.2,
+        "total_km": 26.8,
+        "avg_pace": 8.56,
+        "median_pace": 8.63,
+        "avg_hr": 154.1,
+        "hr_std": 4.6,
+        "pct_aerobic": 75.0,
+        "maf_pace": 8.75
+      },
+      {
+        "week": "2026-03-09/2026-03-15",
+        "n_runs": 3,
+        "total_min": 159.6,
+        "total_km": 18.5,
+        "avg_pace": 8.66,
+        "median_pace": 8.67,
+        "avg_hr": 154.1,
+        "hr_std": 4.5,
+        "pct_aerobic": 100.0,
+        "maf_pace": 8.66
+      },
+      {
+        "week": "2026-03-16/2026-03-22",
+        "n_runs": 1,
+        "total_min": 45.3,
+        "total_km": 5.2,
+        "avg_pace": 8.65,
+        "median_pace": 8.65,
+        "avg_hr": 154.9,
+        "hr_std": null,
+        "pct_aerobic": 100.0,
+        "maf_pace": 8.65
+      },
+      {
+        "week": "2026-03-23/2026-03-29",
+        "n_runs": 3,
+        "total_min": 108.7,
+        "total_km": 12.3,
+        "avg_pace": 8.74,
+        "median_pace": 8.81,
+        "avg_hr": 151.8,
+        "hr_std": 2.0,
+        "pct_aerobic": 100.0,
+        "maf_pace": 8.74
+      },
+      {
+        "week": "2026-03-30/2026-04-05",
+        "n_runs": 4,
+        "total_min": 246.8,
+        "total_km": 28.9,
+        "avg_pace": 8.54,
+        "median_pace": 8.53,
+        "avg_hr": 157.8,
+        "hr_std": 3.2,
+        "pct_aerobic": 75.0,
+        "maf_pace": 8.6
+      },
+      {
+        "week": "2026-04-06/2026-04-12",
+        "n_runs": 3,
+        "total_min": 135.0,
+        "total_km": 16.0,
+        "avg_pace": 8.31,
+        "median_pace": 8.45,
+        "avg_hr": 154.7,
+        "hr_std": 0.9,
+        "pct_aerobic": 100.0,
+        "maf_pace": 8.31
+      },
+      {
+        "week": "2026-04-13/2026-04-19",
+        "n_runs": 4,
+        "total_min": 271.5,
+        "total_km": 33.1,
+        "avg_pace": 8.28,
+        "median_pace": 8.27,
+        "avg_hr": 152.4,
+        "hr_std": 3.3,
+        "pct_aerobic": 100.0,
+        "maf_pace": 8.33
+      },
+      {
+        "week": "2026-04-20/2026-04-26",
+        "n_runs": 3,
+        "total_min": 138.7,
+        "total_km": 16.7,
+        "avg_pace": 8.31,
+        "median_pace": 8.31,
+        "avg_hr": 152.6,
+        "hr_std": 3.3,
+        "pct_aerobic": 100.0,
+        "maf_pace": 8.3
+      },
+      {
+        "week": "2026-04-27/2026-05-03",
+        "n_runs": 3,
+        "total_min": 245.0,
+        "total_km": 30.5,
+        "avg_pace": 8.12,
+        "median_pace": 8.02,
+        "avg_hr": 154.3,
+        "hr_std": 2.8,
+        "pct_aerobic": 100.0,
+        "maf_pace": 8.12
+      },
+      {
+        "week": "2026-05-04/2026-05-10",
+        "n_runs": 4,
+        "total_min": 279.7,
+        "total_km": 34.5,
+        "avg_pace": 8.03,
+        "median_pace": 8.08,
+        "avg_hr": 153.7,
+        "hr_std": 3.2,
+        "pct_aerobic": 100.0,
+        "maf_pace": 8.02
+      },
+      {
+        "week": "2026-05-11/2026-05-17",
+        "n_runs": 4,
+        "total_min": 277.0,
+        "total_km": 35.5,
+        "avg_pace": 7.69,
+        "median_pace": 7.83,
+        "avg_hr": 153.0,
+        "hr_std": 3.1,
+        "pct_aerobic": 100.0,
+        "maf_pace": 7.61
+      },
+      {
+        "week": "2026-05-18/2026-05-24",
+        "n_runs": 4,
+        "total_min": 248.6,
+        "total_km": 32.4,
+        "avg_pace": 7.52,
+        "median_pace": 7.76,
+        "avg_hr": 154.6,
+        "hr_std": 4.4,
+        "pct_aerobic": 100.0,
+        "maf_pace": 7.41
+      },
+      {
+        "week": "2026-05-25/2026-05-31",
+        "n_runs": 3,
+        "total_min": 163.2,
+        "total_km": 20.5,
+        "avg_pace": 7.97,
+        "median_pace": 7.97,
+        "avg_hr": 153.2,
+        "hr_std": 2.6,
+        "pct_aerobic": 100.0,
+        "maf_pace": 7.97
+      },
+      {
+        "week": "2026-06-01/2026-06-07",
+        "n_runs": 3,
+        "total_min": 197.3,
+        "total_km": 24.2,
+        "avg_pace": 8.26,
+        "median_pace": 8.4,
+        "avg_hr": 153.2,
+        "hr_std": 1.7,
+        "pct_aerobic": 100.0,
+        "maf_pace": 8.26
+      }
+    ],
+    "monthly": [
+      {
+        "year_month": "2025-05",
+        "n_runs": 2,
+        "total_min": 56.8,
+        "total_km": 8.1,
+        "avg_pace": 6.98,
+        "avg_hr": 171.5,
+        "hr_std": 1.4,
+        "pct_aerobic": 0.0,
+        "longest_run_min": 34.8,
+        "maf_pace": null
+      },
+      {
+        "year_month": "2025-06",
+        "n_runs": 9,
+        "total_min": 473.7,
+        "total_km": 59.5,
+        "avg_pace": 7.98,
+        "avg_hr": 159.7,
+        "hr_std": 11.9,
+        "pct_aerobic": 33.0,
+        "longest_run_min": 92.9,
+        "maf_pace": null
+      },
+      {
+        "year_month": "2025-07",
+        "n_runs": 17,
+        "total_min": 865.4,
+        "total_km": 111.7,
+        "avg_pace": 7.48,
+        "avg_hr": 162.2,
+        "hr_std": 5.8,
+        "pct_aerobic": 41.0,
+        "longest_run_min": 113.2,
+        "maf_pace": 8.27
+      },
+      {
+        "year_month": "2025-08",
+        "n_runs": 13,
+        "total_min": 702.8,
+        "total_km": 92.7,
+        "avg_pace": 7.19,
+        "avg_hr": 160.2,
+        "hr_std": 5.3,
+        "pct_aerobic": 38.0,
+        "longest_run_min": 107.2,
+        "maf_pace": 8.33
+      },
+      {
+        "year_month": "2025-09",
+        "n_runs": 2,
+        "total_min": 60.3,
+        "total_km": 8.2,
+        "avg_pace": 7.59,
+        "avg_hr": 164.2,
+        "hr_std": 5.2,
+        "pct_aerobic": 0.0,
+        "longest_run_min": 43.6,
+        "maf_pace": null
+      },
+      {
+        "year_month": "2025-10",
+        "n_runs": 9,
+        "total_min": 182.9,
+        "total_km": 20.7,
+        "avg_pace": 8.85,
+        "avg_hr": 150.5,
+        "hr_std": 1.7,
+        "pct_aerobic": 100.0,
+        "longest_run_min": 22.6,
+        "maf_pace": 8.72
+      },
+      {
+        "year_month": "2025-11",
+        "n_runs": 11,
+        "total_min": 329.9,
+        "total_km": 40.0,
+        "avg_pace": 8.33,
+        "avg_hr": 155.4,
+        "hr_std": 3.8,
+        "pct_aerobic": 91.0,
+        "longest_run_min": 45.8,
+        "maf_pace": 8.31
+      },
+      {
+        "year_month": "2025-12",
+        "n_runs": 10,
+        "total_min": 426.2,
+        "total_km": 50.5,
+        "avg_pace": 8.48,
+        "avg_hr": 153.8,
+        "hr_std": 5.2,
+        "pct_aerobic": 90.0,
+        "longest_run_min": 53.3,
+        "maf_pace": 8.38
+      },
+      {
+        "year_month": "2026-01",
+        "n_runs": 15,
+        "total_min": 659.2,
+        "total_km": 77.0,
+        "avg_pace": 8.56,
+        "avg_hr": 152.3,
+        "hr_std": 4.7,
+        "pct_aerobic": 100.0,
+        "longest_run_min": 59.2,
+        "maf_pace": 8.54
+      },
+      {
+        "year_month": "2026-02",
+        "n_runs": 15,
+        "total_min": 639.4,
+        "total_km": 74.8,
+        "avg_pace": 8.43,
+        "avg_hr": 151.3,
+        "hr_std": 5.3,
+        "pct_aerobic": 87.0,
+        "longest_run_min": 69.6,
+        "maf_pace": 8.41
+      },
+      {
+        "year_month": "2026-03",
+        "n_runs": 12,
+        "total_min": 596.2,
+        "total_km": 69.2,
+        "avg_pace": 8.63,
+        "avg_hr": 154.0,
+        "hr_std": 3.7,
+        "pct_aerobic": 92.0,
+        "longest_run_min": 75.7,
+        "maf_pace": 8.69
+      },
+      {
+        "year_month": "2026-04",
+        "n_runs": 14,
+        "total_min": 794.4,
+        "total_km": 94.8,
+        "avg_pace": 8.38,
+        "avg_hr": 154.4,
+        "hr_std": 3.4,
+        "pct_aerobic": 93.0,
+        "longest_run_min": 99.4,
+        "maf_pace": 8.4
+      },
+      {
+        "year_month": "2026-05",
+        "n_runs": 17,
+        "total_min": 1156.7,
+        "total_km": 146.8,
+        "avg_pace": 7.8,
+        "avg_hr": 153.5,
+        "hr_std": 2.9,
+        "pct_aerobic": 100.0,
+        "longest_run_min": 111.4,
+        "maf_pace": 7.77
+      },
+      {
+        "year_month": "2026-06",
+        "n_runs": 3,
+        "total_min": 197.3,
+        "total_km": 24.2,
+        "avg_pace": 8.26,
+        "avg_hr": 153.2,
+        "hr_std": 1.7,
+        "pct_aerobic": 100.0,
+        "longest_run_min": 84.3,
+        "maf_pace": 8.26
+      }
+    ]
+  }
 }

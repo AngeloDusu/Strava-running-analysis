@@ -8,6 +8,7 @@ import json
 import numpy as np
 import config
 from features import load_clean, compute_acwr, build_features
+from aggregate import build_all
 
 
 # Kolom yang AMAN dipublikasikan (whitelist). Apa pun di luar ini TIDAK keluar.
@@ -63,6 +64,7 @@ def build_dashboard_data():
         "summary": summary,
         "runs": runs,
         "acwr_timeline": acwr_timeline,
+        "aggregates": build_all(df),
     }
 
 
