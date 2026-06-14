@@ -3,6 +3,7 @@ data/raw/
 
 # === PROCESSED: ignore semua isi, whitelist file dashboard ===
 data/processed/*
+data/gpx/*
 !data/processed/dashboard_data.json
 !data/processed/weekly_summary.json
 
