@@ -1,31 +1,31 @@
 {
   "summary": {
-    "n_runs": 152,
+    "n_runs": 154,
     "date_range": {
       "start": "2025-05-27",
-      "end": "2026-06-14"
+      "end": "2026-06-20"
     },
     "acwr": {
-      "current": 1.13,
-      "acute_load_min": 240.8,
-      "chronic_load_min": 212.5
+      "current": 1.03,
+      "acute_load_min": 221.0,
+      "chronic_load_min": 213.7
     },
     "maf_trend": {
-      "n_runs_total": 94,
+      "n_runs_total": 95,
       "n_runs_recent": 36,
-      "slope_overall_per_month": -0.037,
-      "slope_recent_per_month": -0.323,
-      "pace_now": 7.98,
+      "slope_overall_per_month": -0.038,
+      "slope_recent_per_month": -0.296,
+      "pace_now": 7.86,
       "improving_recent": true
     },
     "race_5k": {
-      "best_effort_date": "2026-02-17",
-      "best_effort_pace": 4.96,
-      "best_effort_hr": 154.0,
-      "est_5k_time_min": 25.1,
-      "gap_to_target_min": 0.1,
-      "is_reliable": false,
-      "warning": "Best effort recent HR rendah = bukan usaha maksimal. Estimasi tidak reliable. Perlu time-trial!"
+      "best_effort_date": "2026-06-16",
+      "best_effort_pace": 5.71,
+      "best_effort_hr": 177.0,
+      "est_5k_time_min": 28.5,
+      "gap_to_target_min": 3.5,
+      "is_reliable": true,
+      "warning": null
     }
   },
   "runs": [
@@ -1700,6 +1700,28 @@
       "is_aerobic_session": true,
       "year_month": "2026-06",
       "week": "2026-06-08/2026-06-14"
+    },
+    {
+      "date": "2026-06-16 16:31:54",
+      "distance_km": 5.025,
+      "moving_min": 28.666666666666668,
+      "pace_min_per_km": 5.705808513066302,
+      "avg_hr": 176.6,
+      "in_maf_measure": false,
+      "is_aerobic_session": false,
+      "year_month": "2026-06",
+      "week": "2026-06-15/2026-06-21"
+    },
+    {
+      "date": "2026-06-20 06:14:59",
+      "distance_km": 14.0746,
+      "moving_min": 113.73333333333333,
+      "pace_min_per_km": 8.078849571820971,
+      "avg_hr": 158.3,
+      "in_maf_measure": true,
+      "is_aerobic_session": true,
+      "year_month": "2026-06",
+      "week": "2026-06-15/2026-06-21"
     }
   ],
   "acwr_timeline": [
@@ -3230,6 +3252,30 @@
     {
       "date": "2026-06-14",
       "acwr": 1.13
+    },
+    {
+      "date": "2026-06-15",
+      "acwr": 1.13
+    },
+    {
+      "date": "2026-06-16",
+      "acwr": 1.31
+    },
+    {
+      "date": "2026-06-17",
+      "acwr": 1.36
+    },
+    {
+      "date": "2026-06-18",
+      "acwr": 1.36
+    },
+    {
+      "date": "2026-06-19",
+      "acwr": 1.09
+    },
+    {
+      "date": "2026-06-20",
+      "acwr": 1.03
     }
   ],
   "aggregates": {
@@ -3833,6 +3879,18 @@
         "hr_std": 1.4,
         "pct_aerobic": 100.0,
         "maf_pace": 7.84
+      },
+      {
+        "week": "2026-06-15/2026-06-21",
+        "n_runs": 2,
+        "total_min": 142.4,
+        "total_km": 19.1,
+        "avg_pace": 6.89,
+        "median_pace": 6.89,
+        "avg_hr": 167.4,
+        "hr_std": 12.9,
+        "pct_aerobic": 50.0,
+        "maf_pace": 8.08
       }
     ],
     "monthly": [
@@ -3994,15 +4052,15 @@
       },
       {
         "year_month": "2026-06",
-        "n_runs": 6,
-        "total_min": 438.1,
-        "total_km": 54.7,
-        "avg_pace": 8.05,
-        "avg_hr": 154.4,
-        "hr_std": 1.9,
-        "pct_aerobic": 100.0,
-        "longest_run_min": 108.8,
-        "maf_pace": 8.05
+        "n_runs": 8,
+        "total_min": 580.5,
+        "total_km": 73.8,
+        "avg_pace": 7.76,
+        "avg_hr": 157.6,
+        "hr_std": 7.9,
+        "pct_aerobic": 88.0,
+        "longest_run_min": 113.7,
+        "maf_pace": 8.06
       }
     ]
   }
